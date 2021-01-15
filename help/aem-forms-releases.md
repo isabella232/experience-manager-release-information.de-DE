@@ -3,9 +3,9 @@ title: AEM Forms-Versionen
 description: Enthält die Liste aller AEM Forms-Versionen und entsprechenden Pakete
 contentOwner: khsingh
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: 72047e39b9ee80a80b91d2d9b96c9ba6e51ea0e9
 workflow-type: tm+mt
-source-wordcount: '12231'
+source-wordcount: '12261'
 ht-degree: 17%
 
 ---
@@ -41,6 +41,7 @@ Die folgende Liste enthält alle AEM [!DNL Forms] Add-On-Pakete, die bis heute v
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.234.zip">Add-On-Paket für AEM Forms für Linux</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.234.zip">Add-On-Paket für AEM Forms für Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.234.zip">AEM Forms Add-On-Paket für Mac OS X [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.32.zip">AEM Forms-Kompatibilitätspaket</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/adobe-lc-mobileworkspace-src-2.5.24.zip">AEM Forms App-Quelle</a></li>
       <br><b>JEE-Patch-Installationsprogramme</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Jboss/Win/AEMForms-6.5.0-0020_jboss_win.zip">JBoss Windows</a></li>
@@ -55,7 +56,7 @@ Die folgende Liste enthält alle AEM [!DNL Forms] Add-On-Pakete, die bis heute v
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/AIX/AEMForms-6.5.0-0020_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0020<br /> </p> AEM Forms Hinzufügen-Pakete: 6,0,234</p> <p>Client-SDK: 6.0.234<br /> </p></td> 
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0020<br /> </p> AEM Forms Hinzufügen-Pakete: 6,0,234</p> <p>AEM Forms-Kompatibilitätspaket: 2,0,32</p><p>Client-SDK: 6.0.234<br /> </p></td> 
    </tr> 
    <tr> 
     <td>03 September 2020</td> 
