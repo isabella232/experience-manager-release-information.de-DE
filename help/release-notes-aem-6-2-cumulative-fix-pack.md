@@ -1,10 +1,10 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
-description: 'null'
+description: Experience Manager 6.2 Versionshinweise zu den insgesamt Fix-Paketen. Informieren Sie sich über die Probleme, die in verschiedenen kumulativen Fix Packs in Experience Manager-Komponenten behoben wurden.
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: 98d91e0367912d8962bb2f45ae972f50ccb71b5f
 workflow-type: tm+mt
-source-wordcount: '19954'
+source-wordcount: '19975'
 ht-degree: 21%
 
 ---
@@ -611,7 +611,7 @@ Die wichtigsten Highlights dieses Kumulative Fix Pack sind:
 
 ### Mobile On-Demand {#mobile-on-demand}
 
-* (Digital Publishing Suite) Sowohl das Veröffentlichungsdatum als auch das Datum der Titelseite mussten für Folios festgelegt werden, bevor sie in DPS hochgeladen wurden. NPR-22484
+* (Digital Publishing Suite) Sowohl das Veröffentlichungsdatum als auch das Datum der Titelseite mussten für Folios festgelegt werden, bevor sie in DPS hochgeladen werden. NPR-22484
 
 ### Commerce {#commerce}
 
@@ -654,7 +654,7 @@ Die wichtigsten Highlights dieses Kumulative Fix Pack sind:
 
 ### Workflow {#workflow}
 
-* Der Day CQ Workflow E-Mail-Benachrichtigungsdienst löst eine E-Mail pro Mongo-Knoten für Benachrichtigungen zu WorkflowComplete und WorkflowAborted aus. NPR-22486: Hotfix für CQ-4238172
+* Der Day CQ Workflow E-Mail-Benachrichtigungsdienst Trigger eine E-Mail pro Mongo-Knoten für WorkflowComplete- und WorkflowAborted-Benachrichtigungen. NPR-22486: Hotfix für CQ-4238172
 
 ## Formulare {#forms-6}
 
@@ -1272,7 +1272,7 @@ Die wichtigsten Highlights dieses Kumulative Fix Pack sind:
 
 ### Sites {#sites-12}
 
-* Auf einem Active-Active-Authoring-Cluster mit MongoDB versuchen beide Autoren, eine Replizierung für denselben Inhalt auszulösen, wenn die für den Inhalt festgelegte Zeit erreicht wird. NPR-18708; Hotfix für CQ-4210982
+* Auf einem Active-Active-Authoring-Cluster mit MongoDB versuchen beide Autoren, die Replikation für denselben Trigger auszuführen, wenn die Zeitdauer für den Inhalt auf die für ihn festgelegte Zeitdauer eingestellt ist. NPR-18708; Hotfix für CQ-4210982
 * NPE beim Verschieben einer Ressource mit einem Verweis ohne jcr: content-Knoten. NPR-18664
 * Platzhalter sind nicht auf einer Seite sichtbar, die mehrere parsys-Komponenten enthält. NPR-18645; Hotfix für CQ-110253
 * Probleme mit der Gleichzeitigkeit in AbstractCopyMoveCommand. NPR-18591
@@ -2081,7 +2081,7 @@ Die wichtigsten Highlights von AEM 6.2 SP2-CFP1 sind:
 * Anforderung zur Deaktivierung von MissingMetadataNotificationJob, da dadurch die Benutzeroberfläche für die Badge-Benachrichtigung die Seite mit der Ausnahme &quot;Eingabe kann nicht überprüft werden&quot;umbricht. NPR-12500: Hotfix für CQ-93573
 * Die Option &quot;Bearbeiten deaktivieren&quot;für ein Tag-Feld funktioniert nicht in den Seiten mit den Asset-Eigenschaften auf der TouchUI. NPR-12429: Hotfix für CQ-88835
 * API-Korrekturen in AEM Assets 6.2 für die Implementierung von Companion App SMB. NPR-11099
-* Seit der Aktualisierung von Jquery können Benutzer keine Asset-Sammlung auswählen und die Auswahl eines Inhaltsfragments im Bedienfeld &quot;Verknüpfen von Inhalten&quot;bestätigen. NPR-14847: Support für CQ-4194209
+* Seit der Aktualisierung von Jquery können Benutzer keine Asset-Sammlung auswählen und die Auswahl eines Inhaltsfragments im Bedienfeld &quot;Inhalt zuordnen&quot;bestätigen. NPR-14847: Support für CQ-4194209
 * Obwohl auf der Clientseite unendliche Sortierung aufgerufen wird, werden nur Artikel/Banner/Sammlungen sortiert, die derzeit in der Benutzeroberfläche angezeigt werden. NPR-14493: Hotfix für CQ-109926
 * Anforderung der Implementierung der Suchfunktion für AEM On-Demand-Dienste für Mobilgeräte. Die Suchbegriffsuche nach Artikeln, Sammlungen oder Bannern gibt keine Übereinstimmungen zurück. NPR-14093: Hotfix für CQ-101394
 * Bei Verwendung der Komponente &quot;Korallenauswahl&quot;(*granite/ui/components/coral/foundation/form/select*) in einem Dialogfeld funktioniert die Wertinitialisierung in Internet Explorer (IE11- oder Edge-Browser) nicht ordnungsgemäß, wenn der ausgewählte Wert ein einzelnes Element enthält. NPR-13395: Hotfix für CQ-101013
@@ -2424,7 +2424,7 @@ Die Lösung besteht jedoch darin, die AEM Instanz nach einer Aktualisierung neu 
 * `[sling-default-5-discovery.connectors.common.runner.d6a26647-dd1c-4665-be2c-afdd19397e77096a1c19-18ce-4051-bbf1-166caed986f2] org.apache.sling.discovery.oak.pinger.OakViewChecker announcementRegistry is null`
 * Wenn Sie CFPx auf AEM 6.2 SP1 installieren, das das Feature Pack für intelligente Tags enthält, wird der zuvor hinzugefügte Workflow-Schritt für intelligente Tag-Assets aus dem DAM Update Asset-Arbeitsablauf gelöscht.
 
-Siehe Liste der bekannten Probleme in AEM 6.2 SP1[(https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html#Known Probleme).]
+Siehe Liste der bekannten Probleme in AEM 6.2 SP1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html#Known Probleme).[
 
 ## Uber Jar {#uber-jar}
 
