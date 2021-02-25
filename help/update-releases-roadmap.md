@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager] veröffentlicht Roadmap'
 description: '[!DNL Adobe Experience Manager] veröffentlicht Roadmap'
 translation-type: tm+mt
-source-git-commit: 36b873676460cf1d276e9b1a0ee7ecfb7fb26932
+source-git-commit: 74b03cd0ac3868b956512c82097a94797714458a
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 17%
@@ -48,7 +48,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerk
 
 | Version | Version | Typ | Zeitplan |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | Service Pack | 25.02.2021 |
+| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | Service Pack | 11. März 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0 | Service Pack | 27. Mai 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 10 | 6,5,10,0 | Service Pack | 26.08.2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6,5,11,0 | Service Pack | 25.11.2021 |
@@ -77,6 +77,6 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerk
 >
 >* [EOL-Matrix](https://helpx.adobe.com/de/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager] Versionen und Updates](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] Informationen und Support](https://helpx.adobe.com/de/marketing-cloud/experience-manager.html)
+>* [[!DNL Experience Manager] Informationen und Support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
 >* [[!DNL Experience Manager] Definitionen des Releasebilds aktualisieren](/help/update-release-vehicle-definitions.md)
 
