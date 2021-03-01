@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] Updates'
 description: '[!DNL Adobe Experience Manager] Updates'
 contentOwner: AK
 translation-type: tm+mt
-source-git-commit: 6435add7b1aee2a5a2b1d0f0a0d37c3c55885672
+source-git-commit: 2e6a43b1608d07adfcafe5a5db6747b9ec966977
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '310'
 ht-degree: 15%
 
 ---
@@ -19,15 +19,11 @@ ht-degree: 15%
 
 In diesem Artikel wird die neueste Version für jede Release-Kategorie Liste und Sie werden zur Dokumentation für diese Versionen weitergeleitet.
 
-## [!DNL Experience Manager] als  [!DNL Cloud Service] {#aem-as-cloud-service}
+## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
 [!DNL Experience Manager] als  [!DNL Cloud Service] Folge eines monatlichen Veröffentlichungskurses. Daher stehen neue Funktionen monatlich als kontinuierliche Updates für [!DNL Experience Manager] zur Verfügung.
 
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020,11,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
-
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020,10,0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-10-0.html)
-
-Die monatlichen Versionshinweise enthalten auch einen neuen Abschnitt, der nach Komponentennamen kategorisiert ist. Weitere Informationen zu den vorherigen Versionen von [!DNL Experience Manager]als [!DNL Cloud Service] finden Sie unter [alle Versionshinweise für [!DNL Experience Manager] als a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de).
+Einzelheiten zur aktuellen (neuesten) Version finden Sie unter [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html). Von hier aus können Sie auch zu Details früherer Versionen navigieren (chronologisch angeordnet).
 
 ## [!DNL Experience Manager] Vor-Ort- und verwaltete Dienste  {#aem-on-prem-managed-services}
 
