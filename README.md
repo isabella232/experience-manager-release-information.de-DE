@@ -1,14 +1,14 @@
 ---
 source-git-commit: 3a7b4464bff5b4186a21968fe5b2497cb8198100
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '73'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
-# Adobe Experience Manager Versionshinweise
+# Versionsinformationen zu Adobe Experience Manager
 
-Dies ist das Repository für Adobe Experience Manager Versionsinformationen.
+Dies ist der Speicherort für die Versionsinformationen zu Adobe Experience Manager.
 
 Ihre Beiträge zur Dokumentation sind willkommen. Sehen Sie sich die folgenden Ressourcen an:
 
