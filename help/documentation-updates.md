@@ -3,7 +3,7 @@ title: '[!DNL Experience Manager] aktuelle Dokumentationsaktualisierungen'
 description: 'Neue, aktualisierte oder geänderte Funktionen in der Dokumentation [!DNL Experience Manager] '
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 94a5511d9f88f023fa8947dd4cf4ff7a43979dac
+source-git-commit: aafdb3e36e9f856de37d5462af923aad32a73f6d
 workflow-type: tm+mt
 source-wordcount: '3220'
 ht-degree: 20%
