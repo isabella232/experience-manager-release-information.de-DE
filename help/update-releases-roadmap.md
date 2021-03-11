@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 translation-type: tm+mt
-source-git-commit: 74b03cd0ac3868b956512c82097a94797714458a
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '347'
+ht-degree: 92%
 
 ---
 
@@ -24,8 +24,6 @@ ht-degree: 0%
 
 | Release | Version | Typ | Zeitplan |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.1.0 | 2021.1.0 | Monatliche Release | 28. Januar 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.2.0 | 2021.2.0 | Monatliche Release | 25. Februar 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | Monatliche Release | 25. März 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | Monatliche Release | 29. April 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | Monatliche Release | 27. Mai 2021 |
@@ -48,7 +46,6 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 | Version | Version | Typ | Zeitplan |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | Service Pack | 11. März 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0 | Service Pack | 27. Mai 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | Service Pack | 26. August 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 25. November 2021 |
@@ -59,19 +56,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Produktaktualisierungen werden über vierteljährliche CFPs bereitgestellt. Sie umfassen Fehlerbehebungen. Weitere Informationen über die zuletzt veröffentlichten CFPs finden Sie unter [[!DNL Experience Manager] 6.4 – Versionshinweise zum Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=de).
-
-| Version | Version | Typ | Zeitplan |
-|---|---|---|---|
-| [!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 | 6.4.8.4 | Cumulative Fix Pack | 25. Februar 2021 |
-
->[!NOTE]
->
->[!DNL Experience Manager] Forms veröffentlicht die Add-On-Pakete eine Woche nach dem geplanten Veröffentlichungsdatum der [!DNL Experience Manager] Cumulative Fix Packs.
-
->[!NOTE]
->
->[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 ist das letzte CFP für [!DNL Experience Manager] 6.4.
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 ist die letzte GFP für  [!DNL Experience Manager] 6.4. Weitere Informationen zur neuesten CFP finden Sie unter  [[!DNL Experience Manager] 6.4 Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=de) zur kumulativen Fehlerbehebung.
 
 >[!MORELIKETHIS]
 >
