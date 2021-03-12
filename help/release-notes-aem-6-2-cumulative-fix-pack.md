@@ -1,11 +1,11 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
-description: Experience Manager 6.2 Versionshinweise zu den insgesamt Fix-Paketen. Informieren Sie sich über die Probleme, die in verschiedenen kumulativen Fix Packs in Experience Manager-Komponenten behoben wurden.
-translation-type: tm+mt
+description: Versionshinweise zu Experience Manager 6.2 Cumulative Fix Pack. Detaillierte Informationen zu den Problemen, die in verschiedenen Cumulative Fix Packs in Experience Manager-Komponenten behoben wurden.
+translation-type: ht
 source-git-commit: 98d91e0367912d8962bb2f45ae972f50ccb71b5f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '19975'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe hat ein Modell für die einmalige Bereitstellung für die Veröffentlichun
 * Erhöhte Qualitätssicherung
 * Vereinfachte Installation (Benutzer installieren CFPs als einzelnes Paket ohne Abhängigkeiten, abgesehen vom neuesten Service-Pack)
 
-Weitere Informationen zu CFPs und anderen Versionstypen finden Sie unter [Maintenance Release Vehicle](https://docs.adobe.com/content/docs/de-DE/aem/6-2/deploy/maintenance-release-vehicle-definitions.html).
+Weitere Informationen zu CFPs und anderen Versionstypen finden Sie unter [Maintenance Release Vehicle](https://docs.adobe.com/content/docs/en/aem/6-2/deploy/maintenance-release-vehicle-definitions.html).
 
 ## Informationen zur Version {#about-the-release}
 
@@ -113,7 +113,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 ### Cumulative Fix Pack 19 {#cumulative-fix-pack-1}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP19 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP19 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -188,7 +188,7 @@ Liste der in AEM 6.2 SP1-CFP19 enthaltenen Inhaltspakete
 
 ### Cumulative Fix Pack 18 {#cumulative-fix-pack-2}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP18 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP18 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -256,7 +256,7 @@ Liste der in AEM 6.2 SP1-CFP18 enthaltenen Inhaltspakete
 
 ### Cumulative Fix Pack 17 {#cumulative-fix-pack-3}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP17 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP17 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -348,7 +348,7 @@ Liste der in AEM 6.2 SP1-CFP17 enthaltenen Inhaltspakete
 
 ### Cumulative Fix Pack 16 {#cumulative-fix-pack-4}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP16 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP16 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -460,7 +460,7 @@ Liste der in AEM 6.2 SP1-CFP16 enthaltenen Inhaltspakete
 
 ### Cumulative Fix Pack 15 {#cumulative-fix-pack-5}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP15 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP15 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -660,7 +660,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 ### Forms-Add-on-Paket {#forms-add-on-package-6}
 
-AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter AEM Forms-Versionen.
+AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
 #### Adaptive Formulare {#adaptive-forms-4}
 
@@ -732,7 +732,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 ## Forms {#forms-7}
 
-AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter AEM Forms-Versionen.
+AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
 ### Forms-Add-on-Paket {#forms-add-on-package-7}
 
@@ -752,7 +752,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 * Mit 6.2.0-ASM-1017-003 generierte PDF-Dateien sind beschädigt. NPR-21427: Hotfix für CQ-4228046
 
-#### PDFG-Dienst {#pdfg-service-1}
+#### PDFG Service {#pdfg-service-1}
 
 * OCR-Fehler aufgrund unerwarteter Seitengröße (PDF) aus PNG-, JPEG- und TIFF-Dateien. NPR-19489: Hotfix für CQ-4209079
 
@@ -820,7 +820,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 ## Forms {#forms-8}
 
-AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter AEM Forms-Versionen.
+AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
 ### Forms-Add-on-Paket {#forms-add-on-package-8}
 
@@ -850,7 +850,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 * Aktualisieren von Jsafe Jars auf Cryptoj 6.1.3.1 im Installationsprogramm und LCM. NPR-21362
 
-#### PDFG-Dienst {#pdfg-service-2}
+#### PDFG Service {#pdfg-service-2}
 
 * Aktualisieren von Jsafe Jars auf Cryptoj 6.1.3.1 in PDFG. NPR-21359
 
@@ -935,7 +935,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 ## Forms {#forms-9}
 
-AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter AEM Forms-Versionen.
+AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
 Die wichtigsten Highlights für AEM Forms sind:
 
@@ -1029,7 +1029,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 ## Forms {#forms-10}
 
-AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter AEM Forms-Versionen.
+AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
 ### Forms-Add-on-Paket {#forms-add-on-package-10}
 
@@ -1106,7 +1106,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 ## Forms {#forms-11}
 
-AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter AEM Forms-Versionen.
+AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
 ### Forms-Add-on-Paket {#forms-add-on-package-11}
 
@@ -1304,7 +1304,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * In Ergebnissen einer Übersetzungssuche sind keine Namen von Übersetzungsprojekten enthalten. NPR-18224; Hotfix für CQ-4210658
 
-### Markenportal {#brand-portal-1}
+### Brand Portal {#brand-portal-1}
 
 * Ermöglichen der Veröffentlichung von Tags von AEM in Brand Portal über die Tagadmin-/Tagging-Konsole. CQ-4212165
 
@@ -1318,7 +1318,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 * Die korrekten Daten werden erst dann im Bearbeitungsbedienfeld angezeigt, wenn das Fragment gespeichert wurde. NPR-19092
 * Das Hinzufügen von Dokumentfragmenten zu einem Brief nimmt viel Zeit in Anspruch. NPR-18958
-* Wenn in einer XML-Datendatei eine XML-Deklaration vorhanden ist und per POST-Anfrage eine Briefausgabe veranlasst wird, werden die Daten im zugehörigen Brief nicht angezeigt. NPR-18870
+* Wenn in einer XML-Datendatei eine XML-Deklaration vorhanden ist und per POST-Anfrage eine Brief-Ausgabedarstellung veranlasst wird, werden die Daten im zugehörigen Brief nicht angezeigt. NPR-18870
 * Für Aktionen, die an CM-Assets vorgenommen werden, werden keine Auditprotokolle generiert. NPR-16618
 
 >[!NOTE]
@@ -1345,7 +1345,7 @@ Diese werden in zukünftigen CFP behandelt.
 
 ### Forms JEE-Installationsprogramm  {#forms-jee-installer-13}
 
-#### PDFG-Dienst {#pdfg-service-3}
+#### PDFG Service {#pdfg-service-3}
 
 * PDF Generator kann keine PDF-Dokumente mit bestimmten Lesezeichenebenen erstellen. Hotfix für CQ-4211102
 
@@ -1514,7 +1514,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 #### Forms-Add-on-Paket {#forms-add-on-package-15}
 
-AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter AEM Forms-Versionen.
+AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
 **Adaptive Formulare**
 
@@ -1710,7 +1710,7 @@ Die Projekte-Workflow-Konsole zeigt eine NullPointerException auf der Seite an, 
 
 **Prozessverwaltung – HTML Workspace**
 
-* Der Startpunkt einer Startaufgabe beginnt nicht mit den Daten, die zum Zeitpunkt der der Startpunktübermittlung gesendet werden. NPR-16917
+* Der Startpunkt einer Startaufgabe beginnt nicht mit den Daten, die zum Zeitpunkt der Startpunktübermittlung gesendet werden. NPR-16917
 * Durch Klicken auf die Schaltfläche **[!UICONTROL Zurück]** für ein Formular in HTML Workspace wird das Formular nicht geschlossen, sondern in die Gruppenwarteschlange zurückgestellt.\
    NPR-16352
 
@@ -1961,7 +1961,7 @@ Die wichtigsten Highlights des Cumulative Fix Packs 2 sind:
 
 * Im Projektbildschirm sind nur 20 inaktive Projekte sichtbar, obwohl mehr als 20 inaktive Projekte im Repository vorhanden sind. NPR-15656: Hotfix für CQ-4200903
 
-### Kampagne {#campaign-1}
+### Campaign {#campaign-1}
 
 * Bei Verwendung der Komponenten „Campaign – Targeting“ und „MAC – Test- und Target-Integration“ wird durch die Aufhebung der Veröffentlichung von Aktivitäten der Aktivitätsstatus in der Quell-Benutzeroberfläche nicht aktualisiert. NPR-15401: Hotfix für CQ-4199839
 * Beim Verschieben eines Produkts in AEM Commerce fehlen dem Produktverschiebungsassistenten die vorab ausgefüllten Werte für den Produktnamen, den Titel, die referenzierten Seiten, den Erstellungsautor und das Erstellungsdatum. NPR-15228: Hotfix für CQ-98617
@@ -2208,7 +2208,7 @@ Dieser Abschnitt erläutert die Anforderungen und Schritte zur Installation von 
 >
 >Es wird empfohlen, die Überprüfung für jedes neue Installationspaket auszuführen, bevor Sie versuchen, das Paket zu installieren. Vor der Überprüfung werden alle Fehler analysiert und protokolliert, die vor der Installation gefunden wurden, und die Benutzer werden proaktiv vor solchen Fehlern, Überlagerung, Berechtigungen gewarnt.
 >
->Sie finden die Dokumentation zur Validierungsoption unter [https://docs.adobe.com/content/docs/de-DE/aem/6-2/administer/content/package-manager.html#Package%20Validator](https://docs.adobe.com/content/docs/de-DE/aem/6-2/administer/content/package-manager.html#Package%20Validator)
+>Sie finden die Dokumentation zur Validierungsoption unter [https://docs.adobe.com/content/docs/en/aem/6-2/administer/content/package-manager.html#Package%20Validator](https://docs.adobe.com/content/docs/en/aem/6-2/administer/content/package-manager.html#Package%20Validator)
 
 * AEM 6.2 Service Pack 1 ist eine Voraussetzung für CFP. Installationsanweisungen finden Sie unter [Versionshinweise zu AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 
@@ -2268,7 +2268,7 @@ CFP kann wie folgt automatisch in einer laufenden Instanz installiert werden:
 
 Fehlerbehebungen in AEM Forms JEE werden über ein separates Installationsprogramm bereitgestellt. Informationen zum Installieren einer CFP auf AEM Forms on JEE finden Sie unter [Installieren von CFP auf AEM Forms JEE](install-cfp-aem-forms-jee.md).
 
-#### Forms Designer-Installationsprogramm  {#designer-installer}
+#### Forms Designer-Installationsprogramm {#designer-installer}
 
 1. Führen Sie zur Installation des Updates die Datei „Designer6.2.0_&lt;Sprache>_Cumulative_QF.msp“ aus.
 1. Klicken Sie auf dem Begrüßungsbildschirm auf **Aktualisieren**. Die Installation wird gestartet.
@@ -2280,10 +2280,10 @@ Mit AEM Cumulative Fix Pack 6.2 SP1-CFP7 und späteren Versionen wurden die Zeit
 
 | **Verbindungen** | **Verbindungs-Zeitüberschreitung*** | **Socket-Zeitüberschreitung**** |
 |---|---|---|
-| DTM | 30000ms | 30000 ms |
-| Analytics | 30000 ms | 30000 ms |
-| Target | 60000ms | 30000 ms |
-| Search&amp;Promote | 30000 ms | 30000 ms |
+| DTM | 30000ms | 30000ms |
+| Analytics | 30000ms | 30000ms |
+| Target | 60000ms | 30000ms |
+| Search&amp;Promote | 30000ms | 30000ms |
 
 * **Verbindungs-Zeitüberschreitung*** – Die Zeitüberschreitung (in Millisekunden), bis eine Verbindung hergestellt ist. Ein Zeitüberschreitungswert von Null wird als unendliche Zeitüberschreitung interpretiert.
 * **Socket-Zeitüberschreitung**** – Zeitüberschreitung (in Millisekunden) für das Warten auf Daten oder eine maximale Zeit der Inaktivität zwischen zwei aufeinanderfolgenden Datenpaketen.
@@ -2338,7 +2338,7 @@ NPR-21355 ist in CFP 12.1 enthalten. Wenn Sie CFP12.1 oder höher installieren, 
 
 1. Erstellen Sie eine Sicherungskopie der Dateien jsafeFIPS.jar, jsafeJCEFIPS.jar und certjFIPS.jar, die sich unter [AEM_Forms_Installationsverzeichnis]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ befinden, und löschen Sie die Dateien aus dem oben genannten Verzeichnis.
 
-   Wenden Sie sich an den [Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html), um neue JAR-Dateien zu erhalten. Platzieren Sie die JAR-Dateien, die Sie von [Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html) erhalten haben, unter [AEM_Forms_Installationsverzeichnis]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+   Wenden Sie sich an den [Adobe Support](https://helpx.adobe.com/de/marketing-cloud/contact-support.html), um neue JAR-Dateien zu erhalten. Platzieren Sie die JAR-Dateien, die Sie von [Adobe Support](https://helpx.adobe.com/de/marketing-cloud/contact-support.html) erhalten haben, unter [AEM_Forms_Installationsverzeichnis]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
 1. (Nur Windows) Ändern Sie die Konfigurationsdateien `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` oder `domain.conf.bat`:
 
@@ -2424,7 +2424,7 @@ Die Problemumgehung besteht jedoch darin, die AEM-Instanz nach einer Aktualisier
 * `[sling-default-5-discovery.connectors.common.runner.d6a26647-dd1c-4665-be2c-afdd19397e77096a1c19-18ce-4051-bbf1-166caed986f2] org.apache.sling.discovery.oak.pinger.OakViewChecker announcementRegistry is null`
 * Wenn Sie CFPx auf AEM 6.2 SP1 installieren, das das Feature Pack für intelligente Tags enthält, wird der zuvor hinzugefügte Workflow-Schritt für intelligente Tag-Assets aus dem DAM-Asset-Aktualisierungs-Workflow gelöscht.
 
-Weitere Informationen finden Sie in der Liste der [bekannten Probleme in AEM 6.2 SP1](https://docs.adobe.com/docs/de-DE/aem/6-2/release-notes/sp1.html#Known Issues).
+Weitere Informationen finden Sie in der Liste der [bekannten Probleme in AEM 6.2 SP1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html#Known Issues).
 
 ## Uber Jar {#uber-jar}
 
@@ -2452,7 +2452,7 @@ Im folgenden Text wird die Liste der im CFP enthaltenen OSGI-Bundles und Inhalts
 >[!MORELIKETHIS]
 >
 >* [Seite mit den AEM 6.2 Hotfixes](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=de)
->* [AEM 6.2 SP1 – Versionshinweise](https://docs.adobe.com/content/docs/de-DE/aem/6-2/release-notes/sp1.html)
+>* [AEM 6.2 SP1 – Versionshinweise](https://docs.adobe.com/content/docs/en/aem/6-2/release-notes/sp1.html)
 >* [AEM 6.2 – Versionshinweise](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM-Produktseite](http://www.adobe.com/de/solutions/web-experience-management.html)
 >* [Dokumentation zu AEM 6.2](https://docs.adobe.com/content/docs/en/aem/6-2.html)
