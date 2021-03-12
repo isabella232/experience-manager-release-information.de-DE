@@ -21,7 +21,7 @@ Darüber hinaus erhalten Sie hier [Informationen zu früheren Aktualisierungen d
 
 >[!NOTE]
 >
->AEM als Cloud Service wird monatlich veröffentlicht.
+>AEM as a Cloud Service wird monatlich veröffentlicht.
 >
 >Die Dokumentation zu den einzelnen Versionen (aktuelle und frühere Versionen) finden Sie unter [Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=de).
 
