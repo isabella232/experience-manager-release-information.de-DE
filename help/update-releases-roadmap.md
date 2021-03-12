@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 92%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | Monatliche Release | 25. März 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | Monatliche Release | 29. April 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | Monatliche Release | 27. Mai 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021,6,0 | Monatliche Release | 24. Juni 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021,7,0 | Monatliche Release | 29. Juli 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021,8,0 | Monatliche Release | 26. August 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021,9,0 | Monatliche Release | 30. September 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021,10,0 | Monatliche Release | 28. Oktober 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021,11,0 | Monatliche Release | 2. Dezember 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | Monatliche Release | 24. Juni 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | Monatliche Release | 29. Juli 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | Monatliche Release | 26. August 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | Monatliche Release | 30. September 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Monatliche Release | 28. Oktober 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Monatliche Release | 2. Dezember 2021 |
 
 Zusätzlich zu den monatlichen Releases stehen verschiedene wichtige Updates in [!DNL Experience Manager] as a [!DNL Cloud Service] zur Verfügung, die täglich veröffentlicht werden.
 
@@ -42,7 +42,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 Produktaktualisierungen werden über vierteljährliche Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de).
+Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährliche Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de).
 
 | Version | Version | Typ | Zeitplan |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 >[!MORELIKETHIS]
 >
 >* [EOL-Matrix](https://helpx.adobe.com/de/support/programs/eol-matrix.html)
->* Releases und Aktualisierungen von [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=de)
+>* [[!DNL Experience Manager] -Versionen und Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=de)
 >* Informationen und Support für [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
 >* Definitionen von [[!DNL Experience Manager] -Aktualisierungsversionen](/help/update-release-vehicle-definitions.md)
 
