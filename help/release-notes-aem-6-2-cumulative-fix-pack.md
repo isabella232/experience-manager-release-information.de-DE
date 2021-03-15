@@ -45,13 +45,10 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 ist das letzte Cumulative Fix Pack für AE
 >[!NOTE]
 >
 >* Ein neues Sling `discovery-  api`-Bundle Johnzon 1.0.0 ist im AEM Cumulative Fix Pack 6.2 SP1-CFP10 enthalten. Darüber hinaus wird ein sling-discovery-Service-Benutzer mit Lese- und Schreibberechtigung für den Knoten */var/discovery* im CRX-Repository hinzugefügt.
-   >
-   >
-* Es wurde ein E-Mail-Bundle mit Apache Commons **org.apache.commons/commons-email/1.5** hinzugefügt, das **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002** ersetzt.
-   >
-   >
-* Adobe empfiehlt die Bereitstellung von CFP über den Installationsordner für Kunden, die eine große Anzahl von Benutzern auf der AEM-Instanz haben.
-
+>
+>* Es wurde ein E-Mail-Bundle mit Apache Commons **org.apache.commons/commons-email/1.5** hinzugefügt, das **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002** ersetzt.
+>
+>* Adobe empfiehlt die Bereitstellung von CFP über den Installationsordner für Kunden, die eine große Anzahl von Benutzern auf der AEM-Instanz haben.
 >
 
 
@@ -1327,10 +1324,8 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 >
 >* Kopieren und Einfügen aus Word/Web in den CM-Text-Editor zeigt Inhalt mit Zeilenumbruch an. NPR-19530
 >* Inhalt ohne Zeilenumbruch im CM-Text-Editor wird nicht umgebrochen. NPR-19449
-
 >
->
-Diese werden in zukünftigen CFP behandelt.
+>Diese werden in zukünftigen CFP behandelt.
 
 #### Adaptive Formulare {#adaptive-forms-9}
 
