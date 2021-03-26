@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährliche Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de).
 
-| Version | Version | Typ | Zeitplan |
+| Release | Version | Typ | Zeitplan |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0 | Service Pack | 27. Mai 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | Service Pack | 26. August 2021 |
@@ -56,7 +56,7 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährlich
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 ist die letzte GFP für  [!DNL Experience Manager] 6.4. Weitere Informationen zur neuesten CFP finden Sie unter  [[!DNL Experience Manager] 6.4 Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=de) zur kumulativen Fehlerbehebung.
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 ist das letzte CFP für [!DNL Experience Manager] 6.4. Weitere Informationen zum neuesten CFP finden Sie unter [[!DNL Experience Manager] Versionshinweise zum Cumulative Fix Pack 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=de).
 
 >[!MORELIKETHIS]
 >
