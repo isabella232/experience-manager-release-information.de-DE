@@ -3,10 +3,10 @@ title: AEM Forms-Versionen
 description: Enthält die Liste aller AEM Forms-Versionen und der entsprechenden Pakete
 contentOwner: khsingh
 translation-type: tm+mt
-source-git-commit: e15774a3cc034e946ec7443a51181e4c636debaf
+source-git-commit: ad6014815c1b15b66e549653bf0f66fc26b1d2f4
 workflow-type: tm+mt
-source-wordcount: '13231'
-ht-degree: 95%
+source-wordcount: '13263'
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
    </tr>
    <tr> 
     <td>18. März 2021</td> 
-    <td><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms Service Pack 8 Forms-Add-on-Paket für AEM 6.5.8.0</a></td> 
+    <td><a href="https://docs.adobe.com/content/help/de_DE/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms Service Pack 8 Forms-Add-on-Paket für AEM 6.5.8.0</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
     <td> 
      <ul> 
@@ -42,6 +42,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.334.zip">Add-on-Paket für AEM Forms für Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.334.zip">Add-on-Paket für AEM Forms für macOS X [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.36.zip">AEM Forms-Kompatibilitätspaket</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-014/aem-forms-designer-6.5.0-English.msp">AEM Forms Designer-Patch</a></li>
       <br><b>JEE-Patch-Installationsprogramme</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Win/AEMForms-6.5.0-0025_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Linux/AEMForms-6.5.0-0025_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -53,9 +54,9 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/Linux/AEMForms-6.5.0-0025_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/Solaris/AEMForms-6.5.0-0025_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/AIX/AEMForms-6.5.0-0025_websphere_aix.tar.gz">WebSphere AIX</a></li>
-      <li>AEM Forms Client-SDK [1]</li>  
+      <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0025<br /> </p> AEM Forms-Add-on-Pakete: 6.0.334</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.36</p><p>Client-SDK: 6.0.334<br /> </p></td> 
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0025<br /> </p> AEM Forms-Add-on-Pakete: 6.0.334</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.36</p><p>Client-SDK: 6.0.334<br /> </p><p>AEM Forms Designer-Patch: 650.014</p></td> 
    </tr>
    <tr> 
     <td>3. Dezember 2020</td> 
@@ -79,7 +80,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/Linux/AEMForms-6.5.0-0020_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/Solaris/AEMForms-6.5.0-0020_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/AIX/AEMForms-6.5.0-0020_websphere_aix.tar.gz">WebSphere AIX</a></li>
-      <li>AEM Forms Client-SDK [1]</li>  
+      <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
     <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0020<br /> </p> AEM Forms-Add-on-Pakete: 6.0.234</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.32</p><p>Client-SDK: 6.0.234<br /> </p></td> 
    </tr> 
@@ -92,7 +93,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.192.zip">Add-on-Paket für AEM Forms für Linux</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.192.zip">Add-on-Paket für AEM Forms für Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.192.zip">Add-on-Paket für AEM Forms für macOS X [2]</a> </li>  
-      <li>AEM Forms Client-SDK [1]</li> 
+      <li>AEM Forms Client SDK [1]</li> 
       <li>AEM Forms JEE-Installationsprogramm [1]</li> 
      </ul> </td> 
     <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0018<br /> </p> AEM Forms-Add-on-Pakete: 6.0.192</p> <p>Client-SDK: 6.0.192<br /> </p> <p>AEM Forms Designer-Patch: 650.012<br /> </p> </td> 
@@ -106,7 +107,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-LX.zip">Add-on-Paket für AEM Forms für Linux</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-WIN.zip">Add-on-Paket für AEM Forms für Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.5.0-OSX.zip">Add-on-Paket für AEM Forms für macOS X [2]</a> </li>  
-      <li>AEM Forms Client-SDK [1]</li> 
+      <li>AEM Forms Client SDK [1]</li> 
       <li>AEM Forms JEE-Installationsprogramm [1]</li> 
      </ul> </td> 
     <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0014<br /> </p> <p>AEM Forms-Add-on-Pakete: 6.0.160</p> <p>Client-SDK: 6.0.160<br /> </p> <p>AEM Forms Designer-Patch: 650.008<br /> </p> </td> 
@@ -122,7 +123,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-OSX.zip">Add-on-Paket für AEM Forms für macOS X [2]</a> </li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms-Kompatibilitätspaket[3]</a></li> 
       <li>AEM Workbench [1]</li> 
-      <li>AEM Forms Client-SDK [1]</li> 
+      <li>AEM Forms Client SDK [1]</li> 
       <li>AEM Forms JEE-Installationsprogramm [1]</li> 
      </ul> </td> 
     <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0011<br /> </p> <p>AEM Forms-Kompatibilitätspaket: 2.0.26<br /> AEM Forms-Add-on-Pakete: 6.0.138</p> <p>Client-SDK: 6.0.136<br /> </p> <p>AEM Forms Workbench: 6.5.0.20191119.1.935956<br /> </p> </td> 
@@ -138,7 +139,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.3.0-OSX.zip">Add-on-Paket für AEM Forms für macOS X [2]</a> </li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms-Kompatibilitätspaket</a></li> 
       <li>AEM Workbench [1]</li> 
-      <li>AEM Forms Client-SDK [1]</li> 
+      <li>AEM Forms Client SDK [1]</li> 
       <li>AEM Forms JEE-Installationsprogramm [1]</li> 
      </ul> </td> 
     <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0007</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.26</p> <p>AEM Forms-Add-on-Pakete und Client-SDK: 6.0.122</p> <p>AEM Forms Workbench: 6.5.0.20191119.1.935956</p> </td> 
@@ -154,7 +155,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.2.0-OSX.zip">Add-on-Paket für AEM Forms für macOS X</a> [2] </li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.2.0-COMPAT.zip">AEM Forms-Kompatibilitätspaket</a></li> 
       <li>AEM Workbench <sup>[1]</sup></li> 
-      <li>AEM Forms Client-SDK [1]</li> 
+      <li>AEM Forms Client SDK [1]</li> 
       <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
      </ul> </td> 
     <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0004_3</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.22</p> <p>AEM Forms-Add-on-Pakete und Client-SDK: 6.0.106</p> <p>AEM Forms Workbench: 6.5.0.20190917.1.337048</p> </td> 
@@ -215,8 +216,8 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
    <td><strong>Build-Versionen</strong></td> 
   </tr>
   <tr> 
-   <td>04 März 2021</td> 
-   <td><a href="https://docs.adobe.com/content/help/de-DE/experience-manager-64/release-notes/cfp-release-notes.html">AEM Forms-Add-on-Pakete für AEM 6.4 Service Pack 8 Cumulative Fix Pack 4 (6.4.8.4)</a></td> 
+   <td>04. März 2021</td> 
+   <td><a href="https://docs.adobe.com/content/help/de_DE/experience-manager-64/release-notes/cfp-release-notes.html">AEM Forms-Add-on-Pakete für AEM 6.4 Service Pack 8 Cumulative Fix Pack 4 (6.4.8.4)</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
    <td> 
     <ul> 
@@ -237,7 +238,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/websphere/Linux/AEMForms-6.4.0-0025_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/websphere/solaris/AEMForms-6.4.0-0025_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0025/websphere/AIX/AEMForms-6.4.0-0025_websphere_aix.tar.gz">WebSphere AIX</a></li>  
-     <li>AEM Forms Client-SDK [1]<br /> </li>  
+     <li>AEM Forms Client SDK [1]<br /> </li>  
     </ul> </td> 
    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.4.0-0025<br /> </p> <p>AEM Forms-Add-on-Pakete: 5.1.212</p> <p>AEM Forms-Kompatibilitätspaket: 1.1.18<br /> </p><p>Client-SDK: 5.1.208<br /> </p> </td> 
   </tr> 
@@ -263,7 +264,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Websphere/Linux/AEMForms-6.4.0-0023_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Websphere/Solaris/AEMForms-6.4.0-0023_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEMForms-6-4-0-0023/Websphere/AIX/AEMForms-6.4.0-0023_websphere_aix.tar.gz">WebSphere AIX</a></li>  
-     <li>AEM Forms Client-SDK [1]<br /> </li>  
+     <li>AEM Forms Client SDK [1]<br /> </li>  
     </ul> </td> 
    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.4.0-0023<br /> </p> <p>AEM Forms-Add-on-Pakete: 5.1.172</p> <p>Client-SDK: 5.1.172<br /> </p> </td> 
   </tr>
@@ -278,7 +279,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-osx-pkg-5.1.148.zip">Add-on-Paket für AEM Forms für macOS X [2]</a><br /> </li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-aix-pkg-5.1.148.zip">Add-on-Paket für AEM Forms für AIX</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/adobe-aemfd-solaris-pkg-5.1.148.zip">Add-on-Paket für AEM Forms für Solaris</a></li>  
-     <li>AEM Forms Client-SDK [1]<br /> </li> 
+     <li>AEM Forms Client SDK [1]<br /> </li> 
      <li>AEM Forms JEE-Installationsprogramm [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.4.0-0019<br /> </p> <p>AEM Forms-Add-on-Pakete: 5.1.148</p> <p>Client-SDK: 5.1.148<br /> </p> <p>AEM Forms Designer-Patch: 640 011</p></td> 
@@ -294,7 +295,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-OSX.zip">Add-on-Paket für AEM Forms für macOS X [2]</a><br /> </li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-AIX.zip">Add-on-Paket für AEM Forms für AIX</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.1-SOL.zip">Add-on-Paket für AEM Forms für Solaris</a></li>  
-     <li>AEM Forms Client-SDK [1]<br /> </li> 
+     <li>AEM Forms Client SDK [1]<br /> </li> 
      <li>AEM Forms JEE-Installationsprogramm [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.4.0-0016<br /> </p> <p>AEM Forms-Add-on-Pakete: 5.1.120</p> <p>Client-SDK: 5.1.120<br /> </p></td> 
@@ -311,7 +312,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-AIX.zip">Add-on-Paket für AEM Forms für AIX</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.8.0-SOL.zip">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.7.0-COMPAT.zip">AEM Forms-Kompatibilitätspaket[3]</a></li> 
-     <li>AEM Forms Client-SDK [1]<br /> </li> 
+     <li>AEM Forms Client SDK [1]<br /> </li> 
      <li>AEM Forms JEE-Installationsprogramm [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.4.0-0015<br /> </p> <p>AEM Forms-Add-on-Pakete: 5.1.100</p> <p>Client-SDK: 5.1.98<br /> </p> <p>AEM Forms-Kompatibilitätspaket: 1.1.16</p> <p>AEM Forms Workbench: 6.4.0.20200220.1.938252<br /> <br /> </p> </td> 
@@ -328,7 +329,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-AIX.zip">Add-on-Paket für AEM Forms für AIX</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-SOL.zip">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.7.0-COMPAT.zip">AEM Forms-Kompatibilitätspaket</a></li> 
-     <li>AEM Forms Client-SDK [1]<br /> </li> 
+     <li>AEM Forms Client SDK [1]<br /> </li> 
      <li>AEM Forms JEE-Installationsprogramm [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.4.0-0013</p> <p>AEM Forms-Add-on-Pakete und Client-SDK: 5.1.94 </p> <p>AEM Forms-Kompatibilitätspaket: 1.1.16</p> </td> 
@@ -345,7 +346,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-AIX.zip">Add-on-Paket für AEM Forms für AIX</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.6.0-SOL.zip">Add-on-Paket für AEM Forms für Solaris</a></li>
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/compatpack/AEM-FORMS-6.4.6.0-COMPAT.zip">AEM Forms-Kompatibilitätspaket</a></li> 
-     <li>AEM Forms Client-SDK [1]</li> 
+     <li>AEM Forms Client SDK [1]</li> 
      <li>AEM Forms JEE-Installationsprogramm [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms JEE-Installationsprogramm: 6.4.0-0009</p> <p>AEM Forms-Add-on-Pakete und Client-SDK: 5.1.76</p> <p>AEM Forms-Kompatibilitätspaket: 1.1.16</p> </td> 
@@ -445,7 +446,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-FORMS-APP-SRC-PKG" target="_blank">AEM Forms-App-Quelle </a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-FSI-REF-SITE" target="_blank">AEM Forms FSI-Referenz-Site-Paket</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-GOV-REF-SITE" target="_blank">AEM Forms Gov Referenz-Site-Paket</a></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
      <li>AEM Workbench <sup>[1]</sup></li> 
      <li>AEM Designer-Installationsprogramm <sup>[1]</sup></li> 
@@ -483,7 +484,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-WIN.zip">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-SOL.zip">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-OSX.zip">Add-on-Paket für AEM Forms für macOS X [2]</a> <br /> </li> 
-     <li>AEM Forms Client-SDK [1]</li> 
+     <li>AEM Forms Client SDK [1]</li> 
      <li>AEM Forms JEE-Installationsprogramm [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Pakete: 4.1.160</p> <p>Client-SDK: 4.1.158<br /> </p> <p>AEM Forms JEE-Installationsprogramm: AEMForms-6.3.0-0045<br /> </p> </td> 
@@ -499,7 +500,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-WIN.zip">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-SOL.zip">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.7-OSX.zip">Add-on-Paket für AEM Forms für macOS X [2]</a> <br /> </li> 
-     <li>AEM Forms Client-SDK [1]</li> 
+     <li>AEM Forms Client SDK [1]</li> 
      <li>AEM Forms JEE-Installationsprogramm [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Pakete und Client-SDK: 4.1.148</p> <p>AEM Forms JEE-Installationsprogramm: AEMForms-6.3.0-0044 </p> </td> 
@@ -515,7 +516,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-WIN.zip">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-SOL.zip">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.6-OSX.zip">Add-on-Paket für AEM Forms für macOS X [2] </a><br /> </li> 
-     <li>AEM Forms Client-SDK [1]</li> 
+     <li>AEM Forms Client SDK [1]</li> 
      <li>AEM Forms JEE-Installationsprogramm [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>4.1.124</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.3.0-0038</strong></p> </td> 
@@ -541,7 +542,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-WIN">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.4-OSX">Add-on-Paket für AEM Forms für macOS X [2]</a> </li> 
-     <li>AEM Forms Client-SDK [1]</li> 
+     <li>AEM Forms Client SDK [1]</li> 
      <li>AEM Forms JEE-Installationsprogramm [1]</li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>4.1.112</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.3.0-0036</strong></p> </td> 
@@ -557,7 +558,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-WIN">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.3-OSX">Add-on-Paket für AEM Forms für macOS X<sup> [2]</sup></a><sup> </sup></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>4.1.104</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.3.0-0035</strong></p> </td> 
@@ -573,7 +574,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-WIN">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.2-OSX">Add-on-Paket für AEM Forms für macOS X<sup> [2]</sup></a><sup> </sup></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>4.1.94</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.3.0-0034</strong></p> </td> 
@@ -589,7 +590,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-WIN" target="_blank">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.3.1-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X</a><sup> [2] </sup></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>4.1.90</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.3.0-0032</strong></p> </td> 
@@ -605,7 +606,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-WIN">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.3.0-OSX">Add-on-Paket für AEM Forms für macOS X</a><sup> [2] </sup></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>4.1.82</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.3.0-0028</strong></p> </td> 
@@ -636,7 +637,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-WIN">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.2.1-OSX">Add-on-Paket für AEM Forms für macOS X</a> <sup>[2] </sup></li> 
-     <li>AEM Forms Client-SDK [1]<sup><br /> </sup></li> 
+     <li>AEM Forms Client SDK [1]<sup><br /> </sup></li> 
      <li>AEM Forms Designer<sup> [1]</sup></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
      <li>AEM Forms Workbench HotFix <sup>[2]</sup></li> 
@@ -654,7 +655,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-WIN" target="_blank">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3.2.0-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X</a><sup> [2] </sup></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>4.1.64</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.3.0-0022</strong></p> </td> 
@@ -671,7 +672,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.2-OSX">Add-on-Paket für AEM Forms für macOS X</a> <sup>[2] </sup></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms-App-Quelle <sup>[1]</sup></li> 
      <li>Document Security_Client Software Development Kit</li> 
      <li>Document Security_Portable Protection Library <sup>[1]</sup></li> 
@@ -691,7 +692,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-OSX">Add-on-Paket für AEM Forms für macOS X</a><sup> [2] </sup></li> 
      <li>AEM Forms JEE-Installationsprogramm <sup>[1]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>LiveCycle-Einbettungspaket <sup>[1] [3]</sup></li> 
      <li>AEM Forms-App-Quelle <sup>[1]</sup></li> 
     </ul> </td> 
@@ -709,7 +710,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-Forms-6.3-SP1-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X</a><sup> [2] </sup></li> 
      <li>AEM Forms JEE-Installationsprogramm <sup>[1]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms-App-Quelle <sup>[1]<br /> </sup></li> 
      <li>AEM Workbench Hotfix [1]</li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3-SP1-FSI-REF-SITE" target="_blank">AEM Forms FSI-Referenz-Site-Paket</a></li> 
@@ -728,7 +729,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP2-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X</a> <sup>[2]</sup><br /> </li> 
      <li>AEM Forms JEE-Installationsprogramm <sup>[1]</sup><br /> </li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup></li> 
      <li>AEM Forms-App-Quelle <sup>[1]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>4.1.14</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.3.0-0003</strong></p> </td> 
@@ -746,7 +747,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">AEM Forms – Add-on-Paket für macOS X </a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG" target="_blank">AEM Forms JEE-Paket</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-FORMS-APP-SRC-PKG" target="_blank">AEM Forms App Source Code</a></li> 
-     <li>AEM Forms Client-SDK <sup>[1]</sup><br /> </li> 
+     <li>AEM Forms Client SDK <sup>[1]</sup><br /> </li> 
      <li>AEM Forms Designer <sup>[1]</sup></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li> 
      <li>AEM Forms-App-Quelle <sup>[1]</sup></li> 
@@ -767,7 +768,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-CMB">Central Migration Bridge-Paket</a><br /> </li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FORMS-APP-SRC-PKG">AEM Forms App Source Code-Paket</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/fd/AEM-DOCUMENTSECURITY-INDEXER-6.3">AEM Forms Document Security Indexer-Paket</a></li> 
-     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client-SDK</a></li> 
+     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms Client SDK</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FSI-REF-SITE" target="_blank">AEM Forms FSI-Referenz-Site-Paket</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-GOV-REF-SITE" target="_blank">AEM Forms Gov Referenz-Site-Paket</a></li> 
     </ul> </td> 
@@ -806,7 +807,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP20-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP20-OSX">Add-on-Paket für AEM Forms für macOS X [3]</a></li> 
      <li>AEM Forms JEE-Installationsprogramm [2]</li> 
-     <li>AEM Forms Client-SDK [2]</li> 
+     <li>AEM Forms Client SDK [2]</li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.212</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0043</strong></p> </td> 
   </tr> 
@@ -821,7 +822,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP19-WIN">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP19-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP19-OSX">Add-on-Paket für AEM Forms für macOS X <sup>[3]</sup></a></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Pakete und Client-SDK: 3.2.202</p> <p> </p> </td> 
   </tr> 
@@ -837,7 +838,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP18-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP18-OSX">Add-on-Paket für AEM Forms für macOS X <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.194</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0042</strong></p> </td> 
   </tr> 
@@ -853,7 +854,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP17-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP17-OSX">Add-on-Paket für AEM Forms für macOS X <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p> </p> <p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.190</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0041</strong></p> <p> </p> </td> 
   </tr> 
@@ -884,7 +885,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP15-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP15-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.178</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0038</strong></p> </td> 
   </tr> 
@@ -899,7 +900,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP14-WIN" target="_blank">Add-on-Paket für AEM Forms für Windows</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP14-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP14-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X <sup>[3]</sup></a></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.170</strong></td> 
   </tr> 
@@ -915,7 +916,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP13-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP13-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.166</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0031</strong></p> </td> 
   </tr> 
@@ -931,7 +932,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP12-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP12-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup><br /> </li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup><br /> </li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.158</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0030</strong></p> </td> 
   </tr> 
@@ -947,7 +948,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP11-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP11-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X <sup>[3]</sup></a></li> 
      <li>AEM Forms JEE-Installationsprogramm <sup>[2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
      <li>AEM Workbench Hotfix <sup>[2]<br /> </sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.146</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0029</strong></p> <p>AEM Workbench Hotfix: <strong>1028-014</strong></p> </td> 
@@ -964,7 +965,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP10-SOL">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP10-OSX">Add-on-Paket für AEM Forms für macOS X [3]</a></li> 
      <li>AEM Forms JEE-Installationsprogramm <sup>[2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.138</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0028</strong></p> </td> 
   </tr> 
@@ -980,7 +981,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP9-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP9-OSX">Add-on-Paket für AEM Forms für macOS X [3]</a></li> 
      <li>AEM Forms JEE-Installationsprogramm <sup>[2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.134</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0023</strong></p> </td> 
   </tr> 
@@ -996,7 +997,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP8-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP8-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X [3]</a></li> 
      <li>AEM Forms JEE-Installationsprogramm <sup>[2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.128</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0021</strong></p> </td> 
   </tr> 
@@ -1012,7 +1013,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP7-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP7-OSX" target="_blank">Add-on-Paket für AEM Forms für macOS X [3]</a></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.124</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0018</strong></p> </td> 
   </tr> 
@@ -1028,7 +1029,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP6-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP6-OSX">Add-on-Paket für AEM Forms für macOS X [3]</a></li> 
      <li>AEM Forms JEE-Installationsprogramm<sup> [2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.112</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0017</strong></p> </td> 
   </tr> 
@@ -1045,7 +1046,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP5-OSX">Add-on-Paket für AEM Forms für macOS X</a> <sup>[3]</sup></li> 
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP5-JEE-PKG" target="_blank">AEM Forms JEE-Paket</a></li> 
      <li>AEM Forms JEE-Installationsprogramm <sup>[2]</sup><br /> </li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.106</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0015</strong></p> </td> 
   </tr> 
@@ -1061,7 +1062,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/fd/AEM-FORMS-6.2-SP1-CFP4-SOL" target="_blank">Add-on-Paket für AEM Forms für Solaris</a></li> 
      <li>AEM Forms JEE-Installationsprogramm <sup>[2]</sup><br /> </li> 
      <li>AEM Forms Designer-Installationsprogramm <sup>[2]</sup></li> 
-     <li>AEM Forms Client-SDK <sup>[2]</sup></li> 
+     <li>AEM Forms Client SDK <sup>[2]</sup></li> 
     </ul> </td> 
    <td><p>AEM Forms-Add-on-Paket und Client-SDK: <strong>3.2.102</strong></p> <p>AEM Forms JEE-Installationsprogramm: <strong>6.2.0-0012</strong></p> </td> 
   </tr> 
