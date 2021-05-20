@@ -10,9 +10,8 @@ feature-set: Experience Manager
 feature: Versionshinweise
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
 level: Beginner, Intermediate, Experienced
-translation-type: ht
 source-git-commit: e89dcf7b57b2af9674fd5016f0764311702966a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -31,7 +30,7 @@ ht-degree: 100%
    + [Ältere Versionen von AEM, CQ und CRX](aem-previous-versions.md)
 + AEM Forms-Versions-Updates {#forms-updates}
    + [AEM Forms-Versionen](aem-forms-releases.md)
-   + [Installieren von Cumulative Fix Packs auf AEM Forms JEE](install-cfp-aem-forms-jee.md)
+   + [Installieren von Cumulative Fix Packs in AEM Forms JEE](install-cfp-aem-forms-jee.md)
 + Aktualisierungen der Dokumentation {#doc-updates}
    + [Aktuelle Aktualisierungen der Dokumentation](documentation-updates.md)
    + [Frühere Aktualisierungen der Dokumentation](previous-documentation-updates.md)
