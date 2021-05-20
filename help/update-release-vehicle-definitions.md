@@ -2,14 +2,13 @@
 title: Definitionen von Aktualisierungsversionen
 description: In diesem Artikel werden die verschiedenen  [!DNL Experience Manager] -Versionen beschrieben, einschließlich Vollversionen, Feature Packs und Service Packs.
 contentOwner: AK
-translation-type: ht
-source-git-commit: 11ff4f7d66038a80697afe5f104c560137e130f4
-workflow-type: ht
+exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 100%
 
 ---
-
 
 # Definitionen von [!DNL Experience Manager]-Aktualisierungsversionen {#update-release-vehicle-definitions}
 
