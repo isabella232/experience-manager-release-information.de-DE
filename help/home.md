@@ -1,22 +1,21 @@
 ---
 title: '[!DNL Adobe Experience Manager]-Versions-Updates und -Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Updates und -Roadmap'
-translation-type: ht
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
-workflow-type: ht
+exl-id: 861337af-1604-4a8d-aeda-23d80315c544
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
-
 # Adobe Experience Manager-Versions-Updates und -Roadmap
 
 In diesem Handbuch werden Informationen zur [!DNL Adobe Experience Manager]-Versions-Roadmap, zu früheren Versions-Updates und zu Aktualisierungen der Dokumentation behandelt.
 
-* [[!DNL Experience Manager] -Versions-Updates](aem-releases-updates.md)
-* [[!DNL Experience Manager] -Versions-Roadmap](update-releases-roadmap.md)
-* Definitionen von [[!DNL Experience Manager] -Versionen](update-release-vehicle-definitions.md)
+* [[!DNL Experience Manager]-Versionen und Updates](aem-releases-updates.md)
+* [[!DNL Experience Manager]-Versions-Roadmap](update-releases-roadmap.md)
+* [ Definitionen von [!DNL Experience Manager]-Versionen](update-release-vehicle-definitions.md)
 
 ## Frühere Versions-Updates
 
@@ -30,5 +29,5 @@ In diesem Handbuch werden Informationen zur [!DNL Adobe Experience Manager]-Vers
 
 ## Aktualisierungen der Dokumentation
 
-* [[!DNL Experience Manager] -Dokumentation: Aktuelle Aktualisierungen der Dokumentation](documentation-updates.md)
+* [[!DNL Experience Manager]-Dokumentation: Aktuelle Aktualisierungen der Dokumentation](documentation-updates.md)
 * [Frühere Aktualisierungen der Dokumentation](previous-documentation-updates.md)
