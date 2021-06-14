@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 733e77a10f0003ed10a1560d0f5b20f0368cf757
 workflow-type: tm+mt
 source-wordcount: '13746'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -172,7 +172,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
    </tr> 
    <tr> 
     <td>19. September 2019</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de#service-pack">AEM Forms Service Pack 2 Forms-Add-on-Paket für AEM 6.5.2.0</a></td> 
+    <td><a href="https://helpx.adobe.com/de/experience-manager/6-5/release-notes/sp-release-notes.html">AEM Forms Service Pack 2 Forms-Add-on-Paket für AEM 6.5.2.0</a></td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
     <td> 
      <ul> 
@@ -1197,7 +1197,7 @@ Wenden Sie sich an den [Adobe-Support](https://www.adobe.com/account/sign-in.sup
 
 >[!NOTE]
 >
->Für AEM [!DNL Forms] werden regelmäßig Patches oder Schnellkorrekturen veröffentlicht, um Fehler zu beheben und die Benutzerfreundlichkeit und Leistung der Software zu verbessern. Wenn bei der Verwendung von AEM [!DNL Forms] ein Problem auftritt, ist es möglich, dass dieses Problem bereits durch einen Patch oder eine Schnellkorrektur behoben wurde. Weitere Informationen zu den verfügbaren Schnellkorrekturen finden Sie unter [Hotfixes in Adobe Experience Manager 6.2](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=de).
+>Für AEM [!DNL Forms] werden regelmäßig Patches oder Schnellkorrekturen veröffentlicht, um Fehler zu beheben und die Benutzerfreundlichkeit und Leistung der Software zu verbessern. Wenn bei der Verwendung von AEM [!DNL Forms] ein Problem auftritt, ist es möglich, dass dieses Problem bereits durch einen Patch oder eine Schnellkorrektur behoben wurde. Weitere Informationen zu den verfügbaren Schnellkorrekturen finden Sie unter [Hotfixes in Adobe Experience Manager 6.2](https://helpx.adobe.com/de/experience-manager/kb/aem62-available-hotfixes.html).
 
 ## Zu beachtende Dinge {#things-to-remember}
 
