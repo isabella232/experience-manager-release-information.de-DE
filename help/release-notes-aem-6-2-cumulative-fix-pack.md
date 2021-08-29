@@ -2,14 +2,14 @@
 title: AEM 6.2 Cumulative Fix Pack
 description: Versionshinweise zu Experience Manager 6.2 Cumulative Fix Pack. Detaillierte Informationen zu den Problemen, die in verschiedenen Cumulative Fix Packs in Experience Manager-Komponenten behoben wurden.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: c56b6919de7740901a7f71635ac6efd22bdf9a15
 workflow-type: tm+mt
-source-wordcount: '19975'
-ht-degree: 100%
+source-wordcount: '19969'
+ht-degree: 99%
 
 ---
 
-# Versionshinweise zum AEM 6.2 Cumulative Fix Pack {#release-notes-aem-cumulative-fix-pack}
+# AEM 6.2 Versionshinweise zum Cumulative Fix Pack{#release-notes-aem-cumulative-fix-pack}
 
 <!-- TBD: Should we keep this article published after AEM 6.2 content is archived via UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?
 -->
@@ -48,8 +48,8 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 ist das letzte Cumulative Fix Pack für AE
 >* Es wurde ein E-Mail-Bundle mit Apache Commons **org.apache.commons/commons-email/1.5** hinzugefügt, das **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002** ersetzt.
 >
 >* Adobe empfiehlt die Bereitstellung von CFP über den Installationsordner für Kunden, die eine große Anzahl von Benutzern auf der AEM-Instanz haben.
->
 
+>
 
 
 ## Enthaltene Probleme {#issues-included}
@@ -63,7 +63,7 @@ Darüber hinaus enthält dieses CFP Hotfixes, die in [früheren Cumulative Fix P
 * Rückportierung mehrerer Verbesserungen der Targeting-Personalisierung in Campaign. NPR-29163: Hotfix für CQ-4264126
 * com.day.cq.personalization.impl.TeaserResourceEventHandler wird in eine unendliche Schleife verschoben und führt bei Veröffentlichungsinstanzen zu Aktualisierungen der Knoten. NPR-28561: Hotfix für CQ-4263096
 
-### DAM – Allgemeines {#dam-general}
+### DAM - Allgemeines {#dam-general}
 
 * Die Replikationsschaltfläche für Benutzer ohne Administratorrechte in bestimmten DAM-Ordnern kann nicht angezeigt/ausgeblendet werden. NPR-29026: Hotfix für CQ-4265361
 
@@ -89,7 +89,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 * Probleme mit der Benutzerfreundlichkeit bei der Scribble-Komponente für Geräte mit iOS 12.1. NPR-29082: Hotfix für CQ-4261765
 
-#### Forms – Dokumentsicherheit {#forms-document-security}
+#### Forms - Document Security {#forms-document-security}
 
 * Beim Überprüfen aller Signaturen in einer PDF-Datei mit PAdES (PDF Advanced Electronic Signatures) wird eine InvalidOperationException ausgelöst. NPR-27848: Hotfix für CQ-4244837
 
@@ -141,7 +141,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * Aktivieren der Unterstützung für den MS Translator-Service in AEM 6.3 nach der Aktualisierung von MS Translator auf API-Version 3.0. NPR-28123: Hotfix für CQ-4259096
 
-### Benutzeroberfläche – Foundation {#ui-foundation}
+### Benutzeroberfläche - Foundation {#ui-foundation}
 
 * OOTB-Sites-Kalender zeigt falsche Daten an. NPR-28392
 
@@ -156,7 +156,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Das Granite-Paket-Plug-in wählt die Abhängigkeit einer niedrigeren Version von org.apache.sling.i18n aus. Hotfix für CQ-4263245
 * Das com.adobe.cq.com.adobe.cq.ui.commons-Bundle wird bei der Installation des neuesten CFP nach 6.2SP1-CFP15 gelöscht. Hotfix für CQ-4258808
 
-### Forms {#forms-1}
+### Formulare {#forms-1}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter [AEM Forms-Versionen](aem-forms-releases.md).
 
@@ -212,7 +212,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * com.day.cq.personalization.impl.BrandsRetriever durchsucht den gesamten Baum, um die verfügbaren Marken zu sammeln. NPR-27060: Hotfix für CQ-4255790
 
-### WCM – Foundation-Komponenten {#wcm-foundation-components}
+### WCM - Foundation-Komponenten {#wcm-foundation-components}
 
 * Problem mit der Suchfunktion bei der Foundation-Listenkomponente. NPR-26817: Hotfix für CQ-4250324
 
@@ -228,7 +228,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * JCR-Sitzungsleck in ReplicationListener. NPR-27063: Hotfix für CQ-4232088
 
-### Forms {#forms-2}
+### Formulare {#forms-2}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter [AEM Forms-Versionen](aem-forms-releases.md).
 
@@ -287,7 +287,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Leeres Rendering bei Verwendung von Opt-out. NPR-25295: Hotfix für CQ-4246792
 * Erlebnisse, die aus der Autorenumgebung gelöscht wurden, werden bei der Seitenaktivierung nie von der Veröffentlichungsseite entfernt. NPR-24869: Hotfix für CQ-4247832
 
-### DAM – DM Client {#dam-dm-client}
+### DAM - DM Client {#dam-dm-client}
 
 * (Chrome, Firefox) Video-Player ignoriert Mausklicks auf Touch-fähigen Geräten. Hotfix für CQ-4247370
 
@@ -305,13 +305,13 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * cq -social-as-provider-Paket startet nicht mit Versionen 3.x des Mongo-Treibers. NPR-26271: Hotfix für CQ-4252710
 
-### Benutzeroberfläche – Foundation {#ui-foundation-1}
+### Benutzeroberfläche - Foundation {#ui-foundation-1}
 
 * Aktualisierung auf jqueryui clientlib 1.12.1. NPR-25090: Hotfix für Granite-21981, CQ-4248897
 
 * (Omnisearch): Die Titeleigenschaft ist für Cross-Site-Scripting (XSS) in Sites anfällig. NPR-24994: Hotfix für Granite-19933
 
-### Forms {#forms-3}
+### Formulare {#forms-3}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter [AEM Forms-Versionen](aem-forms-releases.md).
 
@@ -325,9 +325,9 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 * Nicht verwandte Formular-Assets werden beim Veröffentlichen der Seite als Verweise gemeldet. NPR-26167: Hotfix für CQ-4251004
 
-### Forms – JEE-Installationsprogramm {#forms-jee-installer-3}
+### Forms - JEE-Installationsprogramm {#forms-jee-installer-3}
 
-#### Dokumentensicherheit {#document-security}
+#### Document Security {#document-security}
 
 * Die Variable wird als Datentyp „Liste“ ausgefüllt, der Subtyp ist „Zeichenfolge“, aber es wird der Fehler „Objekt kann nicht erzwungen werden“ angezeigt. NPR-26194: Hotfix für CQ-4252287
 * Nach der Installation von 6.2-SP1-CFP15 kann nicht auf Wasserzeichenkonfigurationen zugegriffen werden. NPR-26130: Hotfix für CQ-4250984
@@ -403,7 +403,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Lesevorgänge für Metadaten werden nicht beendet. NPR-24240: Hotfix für Granite-19866
 * Aktualisieren von Jetty auf 9.4.11.20180605, um Sicherheitslücken zu schließen. NPR-25033: Hotfix für Granite-22120
 
-### WCM – Foundation-Komponenten {#wcm-foundation-components-1}
+### WCM - Foundation-Komponenten {#wcm-foundation-components-1}
 
 * PageComparator löst beim Sortieren von Seiten eine ClassCastException aus. NPR-24123: Hotfix für CQ-4244048
 * Die Funktion zum Einblenden/Ausblenden der Formular-Dropdown-Komponente funktioniert nicht wie erwartet. NPR-24562: Hotfix für CQ-4222853
@@ -414,7 +414,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * (Klassische Benutzeroberfläche) Die Komponente zeigt die Standardwerte an, selbst wenn der zugehörige Formulardatenmodell-Service auf ein leeres Feld eingestellt ist. NPR-21903: Hotfix für GRANITE-19744
 * Mehrfachfeld gibt eine NPE aus, wenn keine Formulardaten zur Anfrage vorhanden sind. NPR-24513: Hotfix für Granite-21055
 
-## Forms {#forms-4}
+## Formulare {#forms-4}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter [AEM Forms-Versionen](aem-forms-releases.md).
 
@@ -513,16 +513,16 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Die Verwendung von Omnisearch mit einer Bindestrich-Abfrage gibt einen Server-Fehler zurück. NPR-22999: Hotfix für Granite-19674
 * DatePicker unterstützt nicht die manuelle Einstellung externer Typhinweise, die durch ein unsichtbares Feld festgelegt werden. Beim Ändern des Typhinweises wird ein Konvertierungsfehler ausgegeben. NPR-23333: Hotfix für Granite-21194
 
-### WCM – Foundation-Komponenten {#wcm-foundation-components-2}
+### WCM - Foundation-Komponenten {#wcm-foundation-components-2}
 
 * Die CAPTCHA-Komponente wird aus Sicherheitsgründen nicht mehr unterstützt. Wenn Sie die CAPTCHA-Komponente verwenden, wird nach der Installation von 6.2 SP2-CFP15 oder höher die Meldung „Captcha-Komponente ist veraltet und sollte nicht mehr verwendet werden.“ angezeigt. Die AEM-Komponente kann angepasst werden, um reCAPTCHA für mehr Sicherheit einzubeziehen. NPR-22151: Hotfix für CQ-4220052
 * Die WCM Foundation-Komponente „Tabelle“ ist anfällig für beständiges Cross-Site-Scripting. NPR-23206: Hotfix für CQ-4240760
 
 ### Schwachstelle {#vulnerability-2}
 
-* Site-übergreifende Skripterstellung (XSS) in den Verknüpfungen zum Admin-UI-Projekt. NPR-23272: Hotfix für CQ-4241795
+* Cross-Site-Scripting (XSS) in Verknüpfungen zum Admin-UI-Projekt. NPR-23272: Hotfix für CQ-4241795
 
-## Forms {#forms-5}
+## Formulare {#forms-5}
 
 ### Forms-Add-on-Paket {#forms-add-on-package-5}
 
@@ -643,7 +643,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * (Klassische Benutzeroberfläche) Die Komponente zeigt die Standardwerte an, selbst wenn der zugehörige Formulardatenmodell-Service auf ein leeres Feld eingestellt ist. NPR-21903: Hotfix für GRANITE-19744
 
-### WCM – Foundation-Komponenten {#wcm-foundation-components-3}
+### WCM - Foundation-Komponenten  {#wcm-foundation-components-3}
 
 * Fehler beim Veröffentlichen einer Live Copy-Seite, die auf eine Importer-Seite in Adobe Campaign verweist. NPR-22470: Hotfix für CQ-4237164
 * JavaScript-Fehler beim Öffnen des Editors für Experience Fragments. NPR-22598: Hotfix für CQ-4238415
@@ -652,7 +652,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * Der E-Mail-Benachrichtigungs-Service des Day CQ-Workflows löst eine E-Mail pro Mongo-Knoten für WorkflowCompleted- und WorkflowAborted-Benachrichtigungen aus. NPR-22486: Hotfix für CQ-4238172
 
-## Forms {#forms-6}
+## Formulare {#forms-6}
 
 ### Forms-Add-on-Paket {#forms-add-on-package-6}
 
@@ -722,11 +722,11 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * Die jcr-Eigenschaft fehlt für die Initiator-Benutzer-ID beim Erstellen von Übersetzungsprojekten. NPR-21715: Hotfix für CQ-4230713
 
-### WCM – Foundation-Komponenten {#wcm-foundation-components-4}
+### WCM - Foundation-Komponenten {#wcm-foundation-components-4}
 
 * Die Funktion zum Einblenden/Ausblenden der Formular-Dropdown-Komponente funktioniert nicht wie erwartet. NPR-22164: Hotfix für CQ-4235288
 
-## Forms {#forms-7}
+## Formulare {#forms-7}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
@@ -814,7 +814,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Cross-Site-Scripting (XSS) im DAM-Metadaten-Editor. NPR-21434: Hotfix für CQ-83472
 * Mehrere SWF-Dateien sind für Cross-Site-Scripting (XSS) anfällig. NPR-20612: Hotfix für CQ-4213297
 
-## Forms {#forms-8}
+## Formulare {#forms-8}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
@@ -929,7 +929,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * Es wurden Probleme mit Curl Head-Anforderungen für OOTB-Assets in AEM behoben. NPR-20511: Hotfix für CQ-4221520 und CQ-103024
 
-## Forms {#forms-9}
+## Formulare {#forms-9}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
@@ -1010,7 +1010,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * Wenn Sie die Ziel-Engine als Adobe Target auswählen, wird die Komponente nicht geladen und ein Fehler im Serverprotokoll ausgegeben. NPR-20058: Hotfix für CQ-88071, CQ-109698, CQ-4201600
 
-### Commerce {#commerce-1}
+### Handel {#commerce-1}
 
 * Beim Erstellen von Produkten auf derselben Seite wird keine Bestätigungs- oder Umleitungs-Popup-Meldung angezeigt. NPR-20257: Hotfix für CQ-4223414
 
@@ -1019,11 +1019,11 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Wenn die Datumsauswahl ein Feld in einem Mehrfachfeld ist, werden die in Datumsfeldern gespeicherten Werte beim Bearbeiten der Komponente nicht beibehalten. NPR-20077: Hotfix für GRANITE-19147
 * Vorherige Abfragen werden nicht abgebrochen, wenn aufeinanderfolgende Abfragen ausgelöst werden, die zu falschen Ergebnissen führen. NPR-20397: Hotfix für GRANITE-19306
 
-### WCM – Foundation-Komponenten {#wcm-foundation-components-6}
+### WCM - Foundation-Komponenten {#wcm-foundation-components-6}
 
 * Die ImageMap-Eigenschaft existiert auch nach dem Entfernen der Bilder aus der integrierten Editor-Komponente für mehrere Bilder. NPR-20142: Hotfix für CQ-4222982
 
-## Forms {#forms-10}
+## Formulare {#forms-10}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
@@ -1100,7 +1100,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * Ermöglichen der Veröffentlichung von Tags von AEM in Brand Portal über die Tagadmin-/Tagging-Konsole. NPR-20271
 
-## Forms {#forms-11}
+## Formulare {#forms-11}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
@@ -1190,7 +1190,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Benutzer können die Benachrichtigungen in der klassischen Benutzeroberfläche des Posteingangs nicht nach Benutzer/Gruppe filtern. NPR-19122: Hotfix für CQ-4215374
 * Die ausgewählten Koordinaten in der HTL-Bildkomponente werden in der Imagemap nicht beibehalten. NPR-18911: CQ-4211584
 
-## Forms {#forms-12}
+## Formulare {#forms-12}
 
 * AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter [AEM Forms-Versionen](aem-forms-releases.md).
 
@@ -1304,7 +1304,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * Ermöglichen der Veröffentlichung von Tags von AEM in Brand Portal über die Tagadmin-/Tagging-Konsole. CQ-4212165
 
-## Forms {#forms-13}
+## Formulare {#forms-13}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter [AEM Forms-Versionen](aem-forms-releases.md).
 
@@ -1323,6 +1323,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 >
 >* Kopieren und Einfügen aus Word/Web in den CM-Text-Editor zeigt Inhalt mit Zeilenumbruch an. NPR-19530
 >* Inhalt ohne Zeilenumbruch im CM-Text-Editor wird nicht umgebrochen. NPR-19449
+
 >
 >Diese werden in zukünftigen CFP behandelt.
 
@@ -1388,7 +1389,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Die Abfrage getsize () gibt falsche Ergebnisse zurück, wenn FastQuerySize aktiviert ist. NPR-18018
 * Die Web-Konsole in der sekundären Instanz ist nicht zugänglich. NPR-17861; Hotfix für Granite-14582
 
-### Commerce {#commerce-2}
+### Handel {#commerce-2}
 
 * Abfragen werden durchlaufen, wenn für einen Katalog-Blueprint keine Bedingungen für einen Abschnitt definiert ist. NPR-18229; Hotfix für CQ-4211924
 
@@ -1419,7 +1420,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Beim Rendern einer HTL-Bildkomponente wird der Dateiname in der URL umbenannt, was zu einer fehlerhaften URL führt. NPR-17908; Hotfix für CQ-4211587
 * Die Seiteneigenschaften können nach Änderungen nicht beendet werden. NPR-17832; Hotfix für CQ-96110
 
-## Forms {#forms-14}
+## Formulare {#forms-14}
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter [AEM Forms-Versionen](aem-forms-releases.md).
 
@@ -1504,7 +1505,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * XSS-Sicherheitsanfälligkeit in der von HTMLRendererServlet generierten Ausgabe. NPR-17136
 * Anfrage, die Offenlegung der AEM-Version auf der Seite „AEM Web Syndication Feeds“ zu verhindern. NPR-16219
 
-### Forms {#forms-15}
+### Formulare {#forms-15}
 
 #### Forms-Add-on-Paket {#forms-add-on-package-15}
 
@@ -1650,7 +1651,7 @@ Die Projekte-Workflow-Konsole zeigt eine NullPointerException auf der Seite an, 
 * Es wird keine MIME-Typ-Validierung durchgeführt, wenn Binärdateien von Dateien in AEM hochgeladen werden. NPR-16617
 * Probleme beim Hochladen von Avatar-Bildern für LDAP-Benutzer. NPR-16561
 
-### Forms {#forms-16}
+### Formulare {#forms-16}
 
 #### Forms-Add-on-Paket {#forms-add-on-package-16}
 
@@ -1781,7 +1782,7 @@ Die wichtigsten Highlights von CFP3 sind:
 
 * Der Synchronisationsvorgang für Übersetzungen wird nicht automatisch ausgelöst und die AEM-Abfrage erfolgt nicht, ohne dass die Übersetzungsprojekte angestoßen werden. NPR-15163: Hotfix für CQ-90856
 
-### Forms {#forms-17}
+### Formulare {#forms-17}
 
 #### Forms-Add-on-Paket {#forms-add-on-package-17}
 
@@ -1955,7 +1956,7 @@ Die wichtigsten Highlights des Cumulative Fix Packs 2 sind:
 
 * Im Projektbildschirm sind nur 20 inaktive Projekte sichtbar, obwohl mehr als 20 inaktive Projekte im Repository vorhanden sind. NPR-15656: Hotfix für CQ-4200903
 
-### Campaign {#campaign-1}
+### Kampagne {#campaign-1}
 
 * Bei Verwendung der Komponenten „Campaign – Targeting“ und „MAC – Test- und Target-Integration“ wird durch die Aufhebung der Veröffentlichung von Aktivitäten der Aktivitätsstatus in der Quell-Benutzeroberfläche nicht aktualisiert. NPR-15401: Hotfix für CQ-4199839
 * Beim Verschieben eines Produkts in AEM Commerce fehlen dem Produktverschiebungsassistenten die vorab ausgefüllten Werte für den Produktnamen, den Titel, die referenzierten Seiten, den Erstellungsautor und das Erstellungsdatum. NPR-15228: Hotfix für CQ-98617
@@ -1964,7 +1965,7 @@ Die wichtigsten Highlights des Cumulative Fix Packs 2 sind:
 
 * CSRF-Token-Parameter wurde Formularen mit einer GET-Methode hinzugefügt. NPR-15229
 
-### Forms {#forms-18}
+### Formulare {#forms-18}
 
 #### Forms-Add-on-Paket {#forms-add-on-package-18}
 
@@ -2186,7 +2187,7 @@ Sie können das CFP-Paket direkt von „Software Distribution“ herunterladen o
 
 1. Öffnen Sie [Software Distribution](https://experience.adobe.com/downloads). Zum Anmelden bei Software Distribution benötigen Sie eine Adobe ID.
 1. Tippen Sie im Kopfzeilenmenü auf **[!UICONTROL Adobe Experience Manager]**.
-1. Tippen Sie auf den Paketnamen, wählen Sie **[!UICONTROL EULA-Bedingungen akzeptieren]** aus und tippen Sie auf **[!UICONTROL Herunterladen]**.
+1. Tippen Sie auf den Paketnamen, wählen Sie **[!UICONTROL EULA-Bedingungen akzeptieren]** und tippen Sie auf **[!UICONTROL Herunterladen]**.
 
 ## Installationsanweisungen für CFP {#installation-instructions-for-cfp}
 
@@ -2229,7 +2230,7 @@ CFP kann wie folgt automatisch in einer laufenden Instanz installiert werden:
 * Legen Sie das Paket in ../crx-quickstart/install ab, während der Server läuft. Das Paket wird automatisch installiert.
 * Verwenden Sie die [HTTP-API aus Package Manager](https://helpx.adobe.com/de/experience-manager/6-2/sites/administering/using/package-manager.html) – es muss `cmd=install&recursive=true` sein –, damit das verschachtelte Paket installiert wird.
 
-### Validieren der Installation {#validate-installation}
+### Bestätigen der Installation {#validate-installation}
 
 1. Auf der Seite „Produktinformationen“ (/system/console/productinfo) sollte nun unter „Installierte Produkte“ die aktualisierte Version „Adobe Experience Manager, Version 6.2.0.SP1-CFP20“ angezeigt werden.
 1. Alle OSGI-Bundles sind in der OSGI-Konsole entweder AKTIV oder FRAGMENT. (Verwenden Sie die Web-Konsole: /system/console/bundles.)
@@ -2262,7 +2263,7 @@ CFP kann wie folgt automatisch in einer laufenden Instanz installiert werden:
 
 Fehlerbehebungen in AEM Forms JEE werden über ein separates Installationsprogramm bereitgestellt. Informationen zum Installieren einer CFP auf AEM Forms on JEE finden Sie unter [Installieren von CFP auf AEM Forms JEE](install-cfp-aem-forms-jee.md).
 
-#### Forms Designer-Installationsprogramm  {#designer-installer}
+#### Forms Designer-Installationsprogramm {#designer-installer}
 
 1. Führen Sie zur Installation des Updates die Datei „Designer6.2.0_&lt;Sprache>_Cumulative_QF.msp“ aus.
 1. Klicken Sie auf dem Begrüßungsbildschirm auf **Aktualisieren**. Die Installation wird gestartet.
@@ -2450,5 +2451,5 @@ Im folgenden Text wird die Liste der im CFP enthaltenen OSGI-Bundles und Inhalts
 >* [AEM 6.2 – Versionshinweise](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM-Produktseite](http://www.adobe.com/de/solutions/web-experience-management.html)
 >* [Dokumentation zu AEM 6.2](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Abonnieren](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) Sie [Adobe Priority Product Updates](https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/current.html)
+>* [Adobe Priority Produktaktualisierungen](https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/current.html)
 
