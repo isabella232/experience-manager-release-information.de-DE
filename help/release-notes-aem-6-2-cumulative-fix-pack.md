@@ -1,9 +1,9 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
 description: AEM 6.2 Versionshinweise zum Cumulative Fix Pack.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19953'
+source-wordcount: '19928'
 ht-degree: 99%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 99%
 | **Produkt** | Adobe Experience Manager |
 |---|---|
 | **Version** | 6.2 |
-| **Version** | [Cumulative Fix Pack 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **Version** | Cumulative Fix Pack 6.2 SP1-CFP20 |
 | **Voraussetzung** | [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **Allgemeine Verfügbarkeit** | 6. Juni 2019 |
 
@@ -2206,7 +2206,7 @@ Dieser Abschnitt erläutert die Anforderungen und Schritte zur Installation von 
 
 * AEM 6.2 Service Pack 1 ist eine Voraussetzung für CFP. Installationsanweisungen finden Sie unter [Versionshinweise zu AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 
-* Der Download des Cumulative Fix Packs ist über [Software Distribution](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) verfügbar, auf das Sie direkt von der AEM-Instanz aus zugreifen können.
+* Der Download des Cumulative Fix Packs ist über [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) verfügbar, auf das Sie direkt von der AEM-Instanz aus zugreifen können.
 * Bei einer Cluster-Bereitstellung mit RDBMK oder MongoDB kann das CFP-Paket auf einer der Autoreninstanzen installiert werden, die Package Manager verwenden.
 
 * Bevor Sie das Cumulative Fix Pack installieren, stellen Sie sicher, dass Sie einen Schnappschuss oder eine Sicherungskopie Ihrer AEM-Instanz erstellen.
