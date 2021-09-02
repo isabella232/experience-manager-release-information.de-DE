@@ -3,9 +3,9 @@ title: AEM Forms-Versionen
 description: Enthält die Liste aller AEM Forms-Versionen und der entsprechenden Pakete
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 835f25fab1551497b1b7bd4c2d17e93f717914ba
+source-git-commit: 89503496785d40f3f97e3e5cf0cd6e27d57d5a7f
 workflow-type: tm+mt
-source-wordcount: '10203'
+source-wordcount: '10231'
 ht-degree: 99%
 
 ---
@@ -40,7 +40,8 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.490.zip">Add-on-Paket für AEM Forms für Linux</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.490.zip">Add-on-Paket für AEM Forms für Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.490.zip">Add-on-Paket für AEM Forms für macOS X [2]</a></li>            
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">AEM Forms-Kompatibilitätspaket</a></li>      
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">AEM Forms-Kompatibilitätspaket</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.18.zip">LiveCycle-Einbettungspaket</a></li>    
       <br><b>JEE-Patch-Installationsprogramme</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/JBoss/win/AEMForms-6.5.0-0030_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/JBoss/linux/AEMForms-6.5.0-0030_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -54,7 +55,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebSphere/AIX/AEMForms-6.5.0-0030_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.490/">AEM Forms Client SDK</a></li>      
      </ul> </td> 
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0030<br /> </p> AEM Forms-Add-on-Pakete: 6.0.490</p> <p>Client-SDK: 6.0.490<br /> </p><p>AEM Forms-Kompatibilitätspaket: 2.0.40</p><p>AEM Forms Designer-Patch: 650.017</p></td> 
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0030<br /> </p> AEM Forms-Add-on-Pakete: 6.0.490</p> <p>Client-SDK: 6.0.490<br /> </p><p>AEM Forms-Kompatibilitätspaket: 2.0.40</p><p>AEM Forms Designer-Patch: 650.017</p><p>LiveCycle-Einbettungspaket: 5.0.18</p></td> 
    </tr>
    <tr> 
     <td>3. Juni 2021</td> 
