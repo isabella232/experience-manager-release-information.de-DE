@@ -3,9 +3,9 @@ title: AEM Forms-Versionen
 description: Enthält die Liste aller AEM Forms-Versionen und der entsprechenden Pakete
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: d944b1690e0a57512b270961f77bb6aaaa7db12c
+source-git-commit: 7643bdd0f4ec4e9b30bcbc36e07b38f6ed017ff0
 workflow-type: tm+mt
-source-wordcount: '9918'
+source-wordcount: '9921'
 ht-degree: 99%
 
 ---
@@ -42,7 +42,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.490.zip">Add-on-Paket für AEM Forms für macOS X [2]</a></li>            
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">AEM Forms-Kompatibilitätspaket</a></li>        
       <br><b>SDK</b></br>
-      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>      
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.490/">AEM Forms Client SDK</a></li>      
      </ul> </td> 
     <td>AEM Forms-Add-on-Pakete: 6.0.490</p> <p>Client-SDK: 6.0.490<br /> </p><p>AEM Forms-Kompatibilitätspaket: 2.0.40</p><p>AEM Forms Designer-Patch: 650.017</p></td> 
    </tr>
