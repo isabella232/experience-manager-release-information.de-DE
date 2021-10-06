@@ -1,10 +1,11 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
 description: AEM 6.2 Versionshinweise zum Cumulative Fix Pack.
-source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
+source-git-commit: 31a467298feb0ed17fe6897456f8fca644726c49
+workflow-type: ht
 source-wordcount: '19928'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -108,7 +109,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 ### Cumulative Fix Pack 19 {#cumulative-fix-pack-1}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP19 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP19 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -183,7 +184,7 @@ Liste der in AEM 6.2 SP1-CFP19 enthaltenen Inhaltspakete
 
 ### Cumulative Fix Pack 18 {#cumulative-fix-pack-2}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP18 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP18 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -251,7 +252,7 @@ Liste der in AEM 6.2 SP1-CFP18 enthaltenen Inhaltspakete
 
 ### Cumulative Fix Pack 17 {#cumulative-fix-pack-3}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP17 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP17 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -343,7 +344,7 @@ Liste der in AEM 6.2 SP1-CFP17 enthaltenen Inhaltspakete
 
 ### Cumulative Fix Pack 16 {#cumulative-fix-pack-4}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP16 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP16 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -455,7 +456,7 @@ Liste der in AEM 6.2 SP1-CFP16 enthaltenen Inhaltspakete
 
 ### Cumulative Fix Pack 15 {#cumulative-fix-pack-5}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP15 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
+AEM Cumulative Fix Pack 6.2 SP1-CFP15 ist ein wichtiges Update, das seit der allgemeinen Verfügbarkeit von [AEM 6.2 SP1](https://helpx.adobe.com/de/experience-manager/6-2/release-notes/sp1.html) wichtige kundenspezifische Korrekturen enthält.
 
 Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
@@ -747,7 +748,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 * Mit 6.2.0-ASM-1017-003 generierte PDF-Dateien sind beschädigt. NPR-21427: Hotfix für CQ-4228046
 
-#### PDFG-Dienst {#pdfg-service-1}
+#### PDFG Service {#pdfg-service-1}
 
 * OCR-Fehler aufgrund unerwarteter Seitengröße (PDF) aus PNG-, JPEG- und TIFF-Dateien. NPR-19489: Hotfix für CQ-4209079
 
@@ -845,7 +846,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 * Aktualisieren von Jsafe Jars auf Cryptoj 6.1.3.1 im Installationsprogramm und LCM. NPR-21362
 
-#### PDFG-Dienst {#pdfg-service-2}
+#### PDFG Service {#pdfg-service-2}
 
 * Aktualisieren von Jsafe Jars auf Cryptoj 6.1.3.1 in PDFG. NPR-21359
 
@@ -1009,7 +1010,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 * Wenn Sie die Ziel-Engine als Adobe Target auswählen, wird die Komponente nicht geladen und ein Fehler im Serverprotokoll ausgegeben. NPR-20058: Hotfix für CQ-88071, CQ-109698, CQ-4201600
 
-### Handel {#commerce-1}
+### Commerce {#commerce-1}
 
 * Beim Erstellen von Produkten auf derselben Seite wird keine Bestätigungs- oder Umleitungs-Popup-Meldung angezeigt. NPR-20257: Hotfix für CQ-4223414
 
@@ -1339,7 +1340,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 ### Forms JEE-Installationsprogramm  {#forms-jee-installer-13}
 
-#### PDFG-Dienst {#pdfg-service-3}
+#### PDFG Service {#pdfg-service-3}
 
 * PDF Generator kann keine PDF-Dokumente mit bestimmten Lesezeichenebenen erstellen. Hotfix für CQ-4211102
 
@@ -1388,7 +1389,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Die Abfrage getsize () gibt falsche Ergebnisse zurück, wenn FastQuerySize aktiviert ist. NPR-18018
 * Die Web-Konsole in der sekundären Instanz ist nicht zugänglich. NPR-17861; Hotfix für Granite-14582
 
-### Handel {#commerce-2}
+### Commerce {#commerce-2}
 
 * Abfragen werden durchlaufen, wenn für einen Katalog-Blueprint keine Bedingungen für einen Abschnitt definiert ist. NPR-18229; Hotfix für CQ-4211924
 
@@ -1955,7 +1956,7 @@ Die wichtigsten Highlights des Cumulative Fix Packs 2 sind:
 
 * Im Projektbildschirm sind nur 20 inaktive Projekte sichtbar, obwohl mehr als 20 inaktive Projekte im Repository vorhanden sind. NPR-15656: Hotfix für CQ-4200903
 
-### Kampagne {#campaign-1}
+### Campaign {#campaign-1}
 
 * Bei Verwendung der Komponenten „Campaign – Targeting“ und „MAC – Test- und Target-Integration“ wird durch die Aufhebung der Veröffentlichung von Aktivitäten der Aktivitätsstatus in der Quell-Benutzeroberfläche nicht aktualisiert. NPR-15401: Hotfix für CQ-4199839
 * Beim Verschieben eines Produkts in AEM Commerce fehlen dem Produktverschiebungsassistenten die vorab ausgefüllten Werte für den Produktnamen, den Titel, die referenzierten Seiten, den Erstellungsautor und das Erstellungsdatum. NPR-15228: Hotfix für CQ-98617
@@ -2274,10 +2275,10 @@ Mit AEM Cumulative Fix Pack 6.2 SP1-CFP7 und späteren Versionen wurden die Zeit
 
 | **Verbindungen** | **Verbindungs-Zeitüberschreitung*** | **Socket-Zeitüberschreitung**** |
 |---|---|---|
-| DTM | 30000ms | 30000 ms |
-| Analytics | 30000 ms | 30000 ms |
-| Target | 60000ms | 30000 ms |
-| Search&amp;Promote | 30000 ms | 30000 ms |
+| DTM | 30000ms | 30000ms |
+| Analytics | 30000ms | 30000ms |
+| Target | 60000ms | 30000ms |
+| Search&amp;Promote | 30000ms | 30000ms |
 
 * **Verbindungs-Zeitüberschreitung*** – Die Zeitüberschreitung (in Millisekunden), bis eine Verbindung hergestellt ist. Ein Zeitüberschreitungswert von Null wird als unendliche Zeitüberschreitung interpretiert.
 * **Socket-Zeitüberschreitung**** – Zeitüberschreitung (in Millisekunden) für das Warten auf Daten oder eine maximale Zeit der Inaktivität zwischen zwei aufeinanderfolgenden Datenpaketen.
@@ -2332,7 +2333,7 @@ NPR-21355 ist in CFP 12.1 enthalten. Wenn Sie CFP12.1 oder höher installieren, 
 
 1. Erstellen Sie eine Sicherungskopie der Dateien jsafeFIPS.jar, jsafeJCEFIPS.jar und certjFIPS.jar, die sich unter [AEM_Forms_Installationsverzeichnis]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ befinden, und löschen Sie die Dateien aus dem oben genannten Verzeichnis.
 
-   Wenden Sie sich an den [Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html), um neue JAR-Dateien zu erhalten. Platzieren Sie die JAR-Dateien, die Sie von [Adobe Support](https://helpx.adobe.com/marketing-cloud/contact-support.html) erhalten haben, unter [AEM_Forms_Installationsverzeichnis]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+   Wenden Sie sich an den [Adobe Support](https://helpx.adobe.com/de/marketing-cloud/contact-support.html), um neue JAR-Dateien zu erhalten. Platzieren Sie die JAR-Dateien, die Sie von [Adobe Support](https://helpx.adobe.com/de/marketing-cloud/contact-support.html) erhalten haben, unter [AEM_Forms_Installationsverzeichnis]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
 1. (Nur Windows) Ändern Sie die Konfigurationsdateien `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` oder `domain.conf.bat`:
 
@@ -2450,5 +2451,5 @@ Im folgenden Text wird die Liste der im CFP enthaltenen OSGI-Bundles und Inhalts
 >* [AEM 6.2 – Versionshinweise](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM-Produktseite](http://www.adobe.com/de/solutions/web-experience-management.html)
 >* [Dokumentation zu AEM 6.2](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Adobe Priority Produktaktualisierungen](https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/current.html)
+>* [Adobe-Prioritäts-Produkt-Updates](https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/current.html)
 
