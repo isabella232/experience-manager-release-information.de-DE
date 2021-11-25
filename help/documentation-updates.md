@@ -3,10 +3,10 @@ title: Aktuelle Aktualisierungen der Dokumentation zu [!DNL Experience Manager]
 description: 'Neue, aktualisierte oder geänderte Informationen in der Dokumentation zu  [!DNL Experience Manager] '
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: a64bc67f185aaefd41d9376e1119e72a56cce598
 workflow-type: tm+mt
-source-wordcount: '4430'
-ht-degree: 100%
+source-wordcount: '4506'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,7 @@ Darüber hinaus erhalten Sie hier [Informationen zu früheren Aktualisierungen d
 
 | Datum | Thema | Änderungen |
 | --- | --- | --- |
+| 25. November 2021 | AEM mit Dynamic Media - Konfiguration | Sie können jetzt die allgemeinen Einstellungen und Veröffentlichungseinstellungen direkt in Dynamic Media auf AEM konfigurieren, anstatt die Dynamic Media Desktop-Applikation verwenden zu müssen.<br>Siehe [Allgemeine Dynamic Media-Einstellungen konfigurieren](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-general-settings.html) und [Konfigurieren der Dynamic Media-Veröffentlichungseinstellungen für Image-Server](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-publish-settings.html).<br>Siehe auch [Konfigurieren des Dynamic Media-/Scene7-Modus](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html?lang=de) |
 | 04. November 2021 | AEM mit Dynamic Media - Smartes Zuschneiden | Verbessertes smartes Zuschneiden und smartes Farb-/Bildmuster von Bild-Assets mithilfe der neuesten Adobe Sensei-Services. Unter anderem folgende Aktualisierungen der Dokumentation:<br>• Neu Option **[!UICONTROL Zugeschnittene Inhalte für alle Zielauflösungen beibehalten]** im Dialogfeld „Optionen für Beschneiden“ unter „Bildprofile“.<br>• Wenn Sie das Fenster für das smarte Zuschneiden mit mehreren Assets manuell in der Größe anpassen oder ausrichten, bleiben diese Bearbeitungen erhalten, auch wenn Sie später die Assets neu verarbeiten. Wenn Sie jedoch die Breite, Höhe oder beides im Bereich **[!UICONTROL Responsive Bildbeschneidung]** des Bildprofils bearbeiten, müssen diese Assets erneut verarbeitet werden.<br>• Neue Tabelle der unterstützten Bilddateiformate für smartes Zuschneiden und Farbfelder.<br>Nähere Informationen zu diesen Aktualisierungen finden Sie unter [Bildprofile](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/image-profiles.html?lang=de). |
 | 3. November 2021 | Smart Crop Video Viewer-API | Neu [Dokumentation zur Smart Crop Video Viewer-API ist jetzt verfügbar](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=de) im Dynamic Media Viewer-Referenzhandbuch. |
 | 2. Dezember 2020 | Stapelsatzvorgaben | Erfahren Sie, wie Sie die Erstellung von Bildsets und Rotationssets mithilfe von Stapelsatzvorgaben in Dynamic Media automatisieren. Weitere Informationen finden Sie unter [Stapelsatzvorgaben](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html?lang=de#dynamicmedia). |
