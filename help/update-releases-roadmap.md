@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: baca4b11a2fa6e0187275c74a7223058ec927589
-workflow-type: ht
-source-wordcount: '335'
-ht-degree: 100%
+source-git-commit: 1106bf1d4503a6f66eee104ba6fa27e29cd88798
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 | Release | Version | Typ | Zeitplan |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Monatliche Release | 16. Dezember 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | Monatliche Release | 27. Januar 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | Monatliche Release | 3. Februar 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | Monatliche Release | 24. Februar 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Monatliche Release | 31. März 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Monatliche Release | 28. April 2022 |
@@ -40,7 +40,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährliche Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de).
 
-| Release | Version | Typ | Zeitplan |
+| Version | Version | Typ | Zeitplan |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 12 | 6.5.12.0 | Service Pack | 24. Februar 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | Service Pack | 26. Mai 2022 |
