@@ -1,12 +1,12 @@
 ---
-title: '"[!DNL Adobe Experience Manager] Versionsupdates"'
-description: '"[!DNL Adobe Experience Manager] Versionsupdates"'
+title: „Updates für [!DNL Adobe Experience Manager]-Versionen“
+description: „Updates für [!DNL Adobe Experience Manager]-Versionen“
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
