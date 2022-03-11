@@ -1,11 +1,11 @@
 ---
-title: '"[!DNL Adobe Experience Manager] Versionsupdates und Roadmap"'
-description: '"[!DNL Adobe Experience Manager] Versionsupdates und Roadmap"'
+title: „Updates und Roadmap für [!DNL Adobe Experience Manager]-Versionen“
+description: „Updates und Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -13,19 +13,19 @@ ht-degree: 88%
 
 In diesem Handbuch werden Informationen zur [!DNL Adobe Experience Manager]-Versions-Roadmap, zu früheren Versions-Updates und zu Aktualisierungen der Dokumentation behandelt.
 
-* [[!DNL Experience Manager]-Versionen und Updates](aem-releases-updates.md)
-* [[!DNL Experience Manager]-Versions-Roadmap](update-releases-roadmap.md)
-* [ Definitionen von [!DNL Experience Manager]-Versionen](update-release-vehicle-definitions.md)
+* [Updates für [!DNL Experience Manager]-Versionen](aem-releases-updates.md)
+* [Roadmap für [!DNL Experience Manager]-Versionen](update-releases-roadmap.md)
+* [Definitionen von [!DNL Experience Manager]-Versionen als Vehikel](update-release-vehicle-definitions.md)
 
 ## Frühere Versions-Updates
 
 * [Versionshinweise: [!DNL Experience Manager] 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
 * [Versionshinweise: [!DNL Experience Manager] 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
 
-## [!DNL Experience Manager] Forms-Versions-Updates
+## Updates für [!DNL Experience Manager] Forms-Versionen 
 
-* [[!DNL Experience Manager] Forms-Versionen](aem-forms-releases.md)
-* [Installieren von Cumulative Fix Packs auf [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md)
+* [[!DNL Experience Manager] Forms-Versionen ](aem-forms-releases.md)
+* [Installieren von Cumulative Fix Packs in  [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md)
 
 ## Aktualisierungen der Dokumentation
 
