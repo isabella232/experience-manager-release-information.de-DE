@@ -2,9 +2,9 @@
 title: „Updates und Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Updates und Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
-workflow-type: ht
-source-wordcount: '69'
+source-git-commit: e6e7ea43a2424021df70a9b9d1a25794f54ba7d2
+workflow-type: tm+mt
+source-wordcount: '56'
 ht-degree: 100%
 
 ---
@@ -16,11 +16,6 @@ In diesem Handbuch werden Informationen zur [!DNL Adobe Experience Manager]-Vers
 * [Updates für [!DNL Experience Manager]-Versionen](aem-releases-updates.md)
 * [Roadmap für [!DNL Experience Manager]-Versionen](update-releases-roadmap.md)
 * [Definitionen von [!DNL Experience Manager]-Versionen als Vehikel](update-release-vehicle-definitions.md)
-
-## Frühere Versions-Updates
-
-* [Versionshinweise: [!DNL Experience Manager] 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
-* [Versionshinweise: [!DNL Experience Manager] 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
 
 ## Updates für [!DNL Experience Manager] Forms-Versionen 
 
