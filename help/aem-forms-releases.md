@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 539ad3dd1549a4e4a1e40df54d9c431ed7a82505
 workflow-type: tm+mt
 source-wordcount: '12693'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -60,7 +60,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
     <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0044<br /> <p>AEM Forms-Add-on-Pakete: 6.0.718</p></td>
    </tr>
    <tr>
-    <td>03. März 2022</td>
+    <td>3. März 2022</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms Service Pack 12 Forms-Add-on-Paket für AEM 6.5.12.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.12.0</a></td>
     <td>
@@ -117,7 +117,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
     <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0038<br /> <p>AEM Forms Add-On-Pakete: 6.0.566-NPR-37836-B0001</p></td>
    </tr>
    <tr>
-    <td>03. Dezember 2021</td>
+    <td>3. Dezember 2021</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms Service Pack 11 Forms-Add-on-Paket für AEM 6.5.11.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.11.0</a></td>
     <td>
@@ -143,7 +143,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
    </tr>
    <tr>
    <tr>
-    <td>02. September 2021</td>
+    <td>2. September 2021</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM Forms Service Pack 10 Forms-Add-on-Paket für AEM 6.5.10.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.10.0</a></td>
     <td>
@@ -399,7 +399,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.4.0-0027<br /> </p> </td>
   </tr>
   <tr>
-   <td>04. März 2021</td>
+   <td>4. März 2021</td>
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM Forms-Add-on-Pakete für AEM 6.4 Service Pack 8 Cumulative Fix Pack 4 (6.4.8.4)</a></td>
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td>
    <td>
