@@ -4,9 +4,9 @@ description: Zusammenfassung der Schritte zur Installation und Konfiguration des
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ Führen Sie die folgenden Schritte in der angegebenen Reihenfolge durch, um das 
 
 1. Wenden Sie sich an den [Adobe Support](https://www.adobe.com/account/sign-in.supportportal.html), um das Installationsprogramm von AEM 6.3 [!DNL Forms JEE] für das CFP zu erhalten.
 1. Führen Sie das CFP-Installationsprogramm aus und konfigurieren Sie AEM [!DNL Forms JEE] wie in [Installieren und Konfigurieren von AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) beschrieben.
-1. Installieren Sie das neueste AEM CFP 6.3.3.x.
+1. Installieren des neuesten AEM CFP 6.3.3.x
 1. Installieren Sie das [!DNL Forms]-Add-on-Paket für AEM CFP [6.3.3.x](aem-forms-releases.md).
 
 ### Installieren des AEM [!DNL Forms JEE]-Bundle-Pakets {#install-aem-forms-jee-bundles-package}
@@ -46,7 +46,7 @@ Führen Sie die folgenden Schritte in der angegebenen Reihenfolge durch, um das 
 1. Führen Sie das CFP-Installationsprogramm aus und konfigurieren Sie AEM [!DNL Forms JEE] wie in [Installieren und Konfigurieren von AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) beschrieben.
 1. Installieren Sie AEM Hotfix 12785 Version 7.0.
 1. Installieren Sie AEM 6.2 Service Pack 1.
-1. Installieren Sie die neuesten Versionshinweise-aem-6-2-cumulative-fix-pack.md.
+1. Installieren Sie die neueste Version von release-notes-aem-6-2-cumulative-fix-pack.md.
 1. Installieren Sie das [!DNL Forms]-Add-on-Paket für AEM 6.2 Service Pack 1 CFP.
 
 ### Installieren des AEM [!DNL Forms JEE]-Bundle-Pakets {#install-aem-forms-jee-bundles-package-1}
@@ -138,8 +138,8 @@ Mit den folgenden Befehlen legen Sie den Wert für die Zeitüberschreitung auf K
 
    Für AEM [!DNL Forms] 6.3:
 
-   * Installieren und Bereitstellen von AEM[!DNL Forms]für JBoss
-   * Installieren und Bereitstellen von AEM[!DNL Forms]für WebSphere
-   * Installieren und Bereitstellen von AEM[!DNL Forms]für WebLogic
+   * Installieren und Bereitstellen von AEM [!DNL Forms]für JBoss
+   * Installieren und Bereitstellen von AEM [!DNL Forms]für WebSphere
+   * Installieren und Bereitstellen von AEM [!DNL Forms]für WebLogic
 
-1. Starten Sie den AEM [!DNL Forms] JEE-Server neu.
+1. Starten Sie den AEM [!DNL Forms]-JEE-Server neu.
