@@ -3,7 +3,7 @@ title: AEM Forms-Versionen
 description: Enthält die Liste aller AEM Forms-Versionen und der entsprechenden Pakete
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: ef14a7e63a53dc8770ad5c07c826490d76abbb5e
+source-git-commit: d81fb23a3638a02d5843b179270b4de6b642e395
 workflow-type: tm+mt
 source-wordcount: '13150'
 ht-degree: 99%
@@ -40,7 +40,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <br><b>Patch-Installationsprogramme für AEM Forms für OSGi</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.770.zip">AEM Forms-Add-on-Paket für Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.770.zip">AEM Forms-Add-on-Paket für Windows</a></li>
-      * <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.770.zip">Add-on-Paket für AEM Forms für macOS X [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.770.zip">Add-on-Paket für AEM Forms für macOS X [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.46.zip">AEM Forms-Kompatibilitätspaket</a></li>
       <br><b>Patch-Installationsprogramme für AEM Forms für JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0052/jboss/Win/AEMForms-6.5.0-0052_jboss_win.zip">JBoss Windows</a></li>
@@ -67,7 +67,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
      <br><b>Patch-Installationsprogramme für AEM Forms für OSGi</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.718.zip">AEM Forms-Add-on-Paket für Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.718.zip">AEM Forms-Add-on-Paket für Windows</a></li>
-      * <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.718.zip">Add-on-Paket für AEM Forms für macOS X [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.718.zip">Add-on-Paket für AEM Forms für macOS X [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.42.zip">AEM Forms-Kompatibilitätspaket</a></li>
       <br><b>Patch-Installationsprogramme für AEM Forms für JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0044/JBoss/Win/AEMForms-6.5.0-0044_jboss_win.zip">JBoss Windows</a></li>
