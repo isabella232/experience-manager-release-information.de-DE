@@ -3,9 +3,9 @@ title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9925f351b2a2c379ee0ba31c360d553e6902adcf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -34,9 +34,9 @@ Zusätzlich zu den Funktionsversionen werden wichtige Fehler- und Sicherheitskor
 
 >[!CAUTION]
 >
->**Geplanter Wartungsausschlusszeitraum**
+>**Ausschlusszeitraum für geplante Wartungen**
 >
-> Während der folgenden Zeiträume wird keine automatische AEMaaCS-Wartung ausgeführt, die um Mitternacht (00:00 Uhr) CET beginnt und endet:
+> Während der folgenden Zeiträume, die um Mitternacht (00:00 Uhr) CET beginnen und enden, wird keine automatische AEMaaCS-Wartung ausgeführt:
 >
 >* Montag, 21. November bis Montag, 12. Dezember
 >* Montag, 19. Dezember bis Dienstag, 3. Januar
@@ -50,7 +50,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährliche Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=de).
 
-| Version | Version | Typ | Zeitplan |
+| Release | Version | Typ | Zeitplan |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 25. August 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 24. November 2022 |
