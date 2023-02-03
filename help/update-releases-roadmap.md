@@ -4,8 +4,8 @@ description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 297629d471c0c3ac6a13015d3eac1594732837d6
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 80%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 80%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de) gibt im Allgemeinen eine monatliche Veröffentlichungsintervall für neue Funktionen an. Die bevorstehenden Funktionsaktivierungen für [!DNL Experience Manager] as a [!DNL Cloud Service]s sind wie folgt geplant:
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de) folgt im Allgemeinen einem monatlichen Veröffentlichungsintervall für neue Funktionen. Die kommenden Funktionsaktivierungen für [!DNL Experience Manager] as a [!DNL Cloud Service] sind wie folgt geplant.
 
 | Release | Version | Typ | Zeitplan |
 |---|---|---|---|
@@ -30,7 +30,7 @@ ht-degree: 80%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Funktionsaktivierung | 27. April 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Funktionsaktivierung | 25. Mai 2023 |
 
-Zusätzlich zu den Funktionsversionen werden wichtige Fehler- und Sicherheitskorrekturen in [!DNL Experience Manager] as a [!DNL Cloud Service] in Form von Wartungsversionen, wobei ein entsprechendes Wartungsupdate in der Regel häufiger durchgeführt wird.
+Zusätzlich zu den Funktionsversionen werden kritische Fehler- und Sicherheitskorrekturen in [!DNL Experience Manager] as a [!DNL Cloud Service] in Form von Wartungsversionen zur Verfügung gestellt, wobei entsprechende Wartungs-Updates im Allgemeinen in einer höheren Häufigkeit erfolgen.
 
 ## [!DNL Experience Manager] On-Premise und Managed Services {#aem-on-prem-managed-services}
 
