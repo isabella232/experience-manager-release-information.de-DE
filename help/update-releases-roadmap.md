@@ -5,11 +5,11 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: af8f36b78f96e49f6ab9565432b0401e567c6f4c
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# [!DNL Experience Manager] Versionsübersicht {#aem-releases-roadmap}
+# Roadmap für [!DNL Experience Manager]-Versionen {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] bietet kontinuierlich neue Funktionen, Verbesserungen an bestehenden Funktionen und Fehlerbehebungen für Benutzer, die [!DNL Cloud Service], Managed Services und lokal installierte Produkte verwenden. In diesem Artikel werden die kommenden Releases von [!DNL Experience Manager] aufgeführt.
 
@@ -19,7 +19,7 @@ ht-degree: 95%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de) folgt im Allgemeinen einem monatlichen Veröffentlichungsintervall für neue Funktionen. Die bevorstehenden Funktionsaktivierungen für [!DNL Experience Manager] as a [!DNL Cloud Service] sind wie folgt geplant:
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de) folgt im Allgemeinen einem monatlichen Veröffentlichungsintervall für neue Funktionen. Die kommenden Funktionsaktivierungen für [!DNL Experience Manager] as a [!DNL Cloud Service] sind wie folgt geplant.
 
 | Release | Version | Typ | Zeitplan |
 |---|---|---|---|
