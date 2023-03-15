@@ -2,10 +2,10 @@
 title: Ältere Versionen der Dokumentation für AEM, CQ und CRX herunterladen
 description: Laden Sie Dokumentationspakete für ältere Versionen von Adobe Experience Manager, CQ und CRX herunter.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: bb959aa724d80a0c66ec0922214206809ea68904
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
-source-wordcount: '836'
-ht-degree: 100%
+source-wordcount: '818'
+ht-degree: 76%
 
 ---
 
@@ -15,15 +15,15 @@ Suchen Sie vorherige Handbücher mit Hilfe für ältere Versionen von AEM, CQ un
 
 ## Ältere Versionen der [!DNL Experience Manager]-Dokumentation {#older-version-aem-documentation}
 
-Die auf dieser Seite aufgeführten Versionen von [!DNL Adobe Experience Manager], CQ und CRX sind veraltet und werden nicht mehr offiziell von Adobe verkauft. Die letzten Versionen der offiziellen Dokumentation für diese älteren Versionen sind zur Selbsthilfe verfügbar. Wir empfehlen, au die neueste Version zu aktualisieren – [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).
+Die auf dieser Seite aufgeführten Versionen von [!DNL Adobe Experience Manager], CQ und CRX sind veraltet und werden nicht mehr offiziell von Adobe verkauft. Die letzten Dokumentationsversionen der Adobe für diese älteren Versionen sind für Ihre Selbsthilfe verfügbar. Adobe empfiehlt ein Upgrade auf die neueste Version - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).
 
 >[!NOTE]
 >
->Um zu erfahren, wann eine [!DNL Experience Manager]-Version das Ende der Hauptunterstützung erreicht, suchen Sie in [Produkte und Laufzeit des technischen Supports](https://helpx.adobe.com/de/support/programs/eol-matrix.html) nach `AEM`.
+>So erfahren Sie, wann eine [!DNL Experience Manager] Version erreicht Ende der Hauptunterstützung, siehe [Produkte und Zeiten der technischen Unterstützung](https://helpx.adobe.com/de/support/programs/eol-matrix.html) und Suchen `AEM`.
 
 ### Vor der Installation {#before-installation}
 
-Entscheiden Sie vor dem Download des Pakets, wer den Inhalt nutzen wird. Diese Entscheidung bestimmt die Art der Bereitstellung:
+Bestimmen Sie vor dem Herunterladen des Pakets, wer den Inhalt verbraucht. Diese Entscheidung bestimmt, wie sie bereitgestellt wird:
 
 * Entwickler können das Paket lokal installieren, um es schnell griffbereit zu haben.
 * Wird die Dokumentation auf breiterer Basis in der Organisation benötigt, empfiehlt es sich, das Paket auf einer intern zugänglichen, nicht produktionsbezogenen AEM Author-Instanz bereitzustellen.
@@ -34,10 +34,9 @@ Entscheiden Sie vor dem Download des Pakets, wer den Inhalt nutzen wird. Diese E
 
 ## Software Distribution-Standorte {#software-distribution-locations}
 
-Sie benötigen eine gültige Adobe ID:
+Eine gültige Adobe ID ist erforderlich:
 
-* Wenn Sie keine Adobe ID haben, können Sie unter www.adobe.com/de eine erstellen.
-Wenn Sie Hilfe beim Erstellen oder Verwalten Ihrer Adobe ID benötigen, [lesen Sie dieses Handbuch](https://helpx.adobe.com/de/manage-account.html).
+* Wenn Sie nicht über eine Adobe ID verfügen, können Sie eine unter https://www.adobe.com/ erstellen. Wenn Sie Hilfe beim Erstellen oder Verwalten Ihrer Adobe ID benötigen, [Weitere Informationen finden Sie in diesem Handbuch](https://helpx.adobe.com/de/manage-account.html)
 
 | [!DNL Experience Manager]-Version | Link zu Software Distribution |
 |:-----------:|:--------------------------------------------------:|
@@ -57,7 +56,7 @@ Wenn Sie Hilfe beim Erstellen oder Verwalten Ihrer Adobe ID benötigen, [lesen S
 
 ## Installation eines Dokumentationspakets {#how-to-install-documentation-package}
 
-Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager] auf dem lokalen Laufwerk oder dem Netzlaufwerk installiert sein und ausgeführt werden.
+Um ein Legacy-Dokumentationspaket zu installieren, benötigen Sie [!DNL Experience Manager] auf Ihrem lokalen Laufwerk oder Netzwerklaufwerk installiert und ausgeführt werden.
 
 ### Herunterladen des Dokumentationspakets {#download-documentation-package}
 
@@ -65,9 +64,9 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 1. Melden Sie sich mit Ihrer Adobe ID an. Erstellen Sie eine Adobe ID, falls Sie noch keine haben.
 
-1. Wählen Sie die Schaltfläche **[!UICONTROL Herunterladen]**.
+1. Wählen Sie die **[!UICONTROL Download]** Schaltfläche.
 
-1. Hier ein Beispiel für die Anzeige in diesem Bereich:
+1. Hier ist ein Beispiel für Folgendes:
 
 ![Beispiel für Software Distribution](assets/screen_shot_2020-07-10at161922.jpg)
 
@@ -75,7 +74,7 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 >[!NOTE]
 >
->Für AEM 6.2 müssen Sie die lokale Instanz möglicherweise mit einer größeren maximalen Heap-Größe starten, indem Sie z. B. folgenden Befehl verwenden: ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+>Starten Sie für AEM 6.2 Ihre lokale Instanz mit einer erhöhten maximalen Heap-Größe, indem Sie beispielsweise diesen Befehl verwenden: ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
 
 1. Öffnen Sie die [!DNL Experience Manager]-Benutzeroberfläche. Geben Sie in einem Webbrowser Folgendes ein: `http://localhost:4502/`. Melden Sie sich als Administrator an.
 
@@ -87,14 +86,14 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 1. Wählen Sie das Paket aus und klicken Sie auf **[!UICONTROL OK]**.
 
-1. Nachdem Sie das Paket hochgeladen haben, müssen Sie es installieren.
+1. Nachdem das Paket hochgeladen wurde, installieren Sie es.
 
 1. Navigieren Sie in der Package Manager-UI zu dem Paket und wählen Sie **[!UICONTROL Install]** (Installieren).
 
-1. Wählen Sie im Bestätigungsdialogfeld erneut **[!UICONTROL Install]** (Installieren). Hinweis: Die Installation nimmt einige Minuten in Anspruch.
+1. Wählen Sie im Bestätigungsdialogfeld die Option **[!UICONTROL Installieren]** erneut. Die Installation dauert einige Minuten.
 
 1. Starten Sie in einem Webbrowser die Dokumentationsseite. Für AEM 5.6.1 lautet die URL z. B.: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Hilfe von der [!DNL Experience Manager]-Community {#get-help-from-aem-community}
 
-Wenn Sie Fragen zur Verwendung von Experience Manager haben, empfehlen wir Ihnen, [sich mit unseren erfahrenen Community-Experten in den  [!DNL Experience Manager] -Foren](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) in Verbindung zu setzen.
+Wenn Sie Fragen zur Verwendung von Experience Manager haben, empfiehlt Adobe, dass Sie [Kontakt zu erfahrenen Experten aus der Community aufnehmen [!DNL Experience Manager] forums](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).

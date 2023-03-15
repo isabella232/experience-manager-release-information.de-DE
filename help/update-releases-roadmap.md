@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 05652027b9a88d9aa530d25b6a88f75c1646f310
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 100%
+source-wordcount: '344'
+ht-degree: 91%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de) folgt im Allgemeinen einem monatlichen Veröffentlichungsintervall für neue Funktionen. Die kommenden Funktionsaktivierungen für [!DNL Experience Manager] as a [!DNL Cloud Service] sind wie folgt geplant.
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=de) folgt im Allgemeinen einem monatlichen Veröffentlichungsintervall für neue Funktionen. Die kommenden Funktionsaktivierungen für [!DNL Experience Manager] as a [!DNL Cloud Service] sind wie folgt geplant.
 
 | Release | Version | Typ | Zeitplan |
 |---|---|---|---|
@@ -33,7 +33,7 @@ Zusätzlich zu den Funktionsversionen werden kritische Fehler- und Sicherheitsko
 
 ## [!DNL Experience Manager] On-Premise und Managed Services {#aem-on-prem-managed-services}
 
-Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerbehebungen für unterstützte [!DNL Experience Manager] On-Premise- und Managed Services-Implementierungen werden über vierteljährliche Service Packs und Cumulative Fix Packs (CFPs) bereitgestellt. Dies ermöglicht eine schnellere Übernahme von Produktaktualisierungen durch häufige Veröffentlichungen. Die Veröffentlichung der Produktaktualisierungen ist wie folgt geplant.
+Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerbehebungen für unterstützte [!DNL Experience Manager] On-Premise und Managed Services werden über vierteljährliche Service Packs und Cumulative Fix Packs (CFPs) bereitgestellt. Dies ermöglicht eine schnellere Übernahme von Produktaktualisierungen durch häufige Veröffentlichungen. Die Veröffentlichung der Produktaktualisierungen ist wie folgt geplant.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -57,7 +57,7 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährlich
 >[!MORELIKETHIS]
 >
 >* [EOL-Matrix](https://helpx.adobe.com/de/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] -Versionen und Updates](https://helpx.adobe.com/de/experience-manager/aem-releases-updates.html)
+>* [[!DNL Experience Manager] -Versionen und Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=de)
 >* Informationen und Support für [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
 >* Definitionen von [[!DNL Experience Manager] -Aktualisierungsversionen](/help/update-release-vehicle-definitions.md)
 
