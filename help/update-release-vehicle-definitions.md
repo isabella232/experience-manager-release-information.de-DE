@@ -4,9 +4,9 @@ description: In diesem Artikel werden die verschiedenen  [!DNL Experience Manage
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '730'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Dieses Dokument enthält Einzelheiten zu den verschiedenen Arten von [!DNL Adobe
 
 | Elemente | Beschreibung |
 |-------|------|
-| Definition | <ul> <li> Geplante Veröffentlichung </li> <li> Unterstützt Aktualisierungspfade für bestimmte Versionen, die in den Versionshinweisen definiert sind </li> </ul> |
+| Definition | <ul> <li> Geplante Veröffentlichung </li> <li> Unterstützt Aktualisierungspfade für bestimmte Versionen, die in den Versionshinweisen angegeben sind </li> </ul> |
 | Namenskonvention | <ul> <li> Die Versionsnummer für Hauptversionen erhöht sich nach der Formel X+1.Y.Z. </li> <li> Die Versionsnummer für Nebenversionen erhöht sich nach der Formel X.Y+1.Z. </li> </ul> Dabei ist X die primäre Versionsnummer, Y die sekundäre Versionsnummer und Z die Patch-Nummer. |
 | Lieferumfang | <ul> <li> Neue Funktionen </li> <li>  Verbesserungen </li> <li>  Fehlerbehebungen </li> </ul> |
 | Dokumentation | <ul> <li> Versionshinweise im Dokumentationsportal </li> <li> Dokumentation zu Funktionen, Verbesserungen und Fehlerbehebungen im Dokumentationsportal </li> </ul> |
@@ -51,7 +51,7 @@ Dieses Dokument enthält Einzelheiten zu den verschiedenen Arten von [!DNL Adobe
 | Lieferumfang | CFP steht für Cumulative Fix Pack und enthält Fehlerbehebungen für alle Komponenten bis zu einem bestimmten Datum. Wenn ein Kunde z. B. CFP3 anwendet, gilt CFP3 = CFP1 + CFP2. |
 | Dokumentation | Versionshinweise im Dokumentationsportal |
 | Veröffentlichungsintervall | Vierteljährlich |
-| Verfügbarkeit und Installation | <ul> <li> Bereitstellung als Paket </li> <li>  Verfügbar über Software Distribution </li> <li>  Abhängig vom zuletzt veröffentlichten Service Pack </li> <li>  CFPs haben keine externen Abhängigkeiten. Kunden müssen sich keine Gedanken über das Suchen/Auflösen von Abhängigkeiten machen. CFPs sollten nach dem zuletzt veröffentlichten Service Pack installiert werden. </li> <li>  CFPs können als ein Paket installiert werden und verbessern so das Kundenerlebnis.  </li> </ul> |
+| Verfügbarkeit und Installation | <ul> <li> Bereitstellung als Paket </li> <li>  Verfügbar über Software Distribution </li> <li>  Abhängig vom zuletzt veröffentlichten Service Pack </li> <li>  CFPs haben keine externen Abhängigkeiten. Kundinnen und Kunden müssen sich keine Gedanken über das Suchen/Auflösen von Abhängigkeiten machen. CFPs sollten nach dem zuletzt veröffentlichten Service Pack installiert werden. </li> <li>  CFPs können als ein Paket installiert werden und verbessern so das Kundenerlebnis.  </li> </ul> |
 | Teststufe | Validierung durch Qualitätssicherung auf Integrationsebene und Regressionstests |
 
 ## Überlagerung {#overlay}
@@ -77,4 +77,4 @@ Dieses Dokument enthält Einzelheiten zu den verschiedenen Arten von [!DNL Adobe
 | Verfügbarkeit und Installation | <ul> <li>Bereitstellung über Service Packs </li> <li> Verfügbar über Software Distribution. Kunden akzeptieren die Geschäftsbedingungen von [!DNL Adobe's] über Software Distribution. </li> </ul> |
 | Teststufe | General Availability Feature Packs werden durch die Qualitätssicherung validiert. |
 
-* 1: Oak-Fehlerbehebungen werden nicht als einzelne Hotfixes bereitgestellt. Sie sind jedoch im Lieferumfang des nachfolgenden Cumulative Oak Hot Fix enthalten. Bei Bedarf kann ein Diagnose-Build zusätzlich zum aktuellen COFP bereitgestellt werden. Eine Vorbedingung hierfür ist, dass der Kunde das aktuelle COFP ausgeführt hat. Diagnose-Builds bieten nur die Qualitätssicherungsstufe eines Hotfixes. Daher bieten sie nicht so viel Qualitätssicherung wie ein kumulatives Fixpack, Service Pack oder eine Produktversion. Die endgültige Fehlerbehebung wird mit dem nächsten CFP bereitgestellt.
+* 1: Oak-Fehlerbehebungen werden nicht als individuelle Hotfixes bereitgestellt. Sie sind jedoch im Lieferumfang des nachfolgenden Cumulative Oak Hot Fix enthalten. Bei Bedarf kann ein Diagnose-Build zusätzlich zum aktuellen COFP bereitgestellt werden. Eine Vorbedingung hierfür ist, dass der Kunde das aktuelle COFP ausgeführt hat. Diagnose-Builds bieten nur die Qualitätssicherungsstufe eines Hotfixes. Sie bieten daher nicht dieselbe Qualitätssicherungsstufe wie ein Cumulative Fix Pack, ein Service Pack oder eine Produktversion. Die endgültige Fehlerbehebung wird mit dem nächsten CFP bereitgestellt.
