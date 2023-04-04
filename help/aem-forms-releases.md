@@ -3,10 +3,10 @@ title: AEM Forms-Versionen
 description: Enthält die Liste aller AEM Forms-Versionen und der entsprechenden Pakete
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 9430cbf7e1f9142093ff705300b3d903e1f1c5d8
+source-git-commit: db0847781308dbde8097a0cd8ed169b0004165ce
 workflow-type: tm+mt
-source-wordcount: '14268'
-ht-degree: 99%
+source-wordcount: '14264'
+ht-degree: 100%
 
 ---
 
@@ -61,7 +61,7 @@ Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis he
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16/Designer6.5.0_Spanish_Cumulative_QF.msp">Installationsprogramm in spanischer Sprache</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0062<br/><p>AEM Forms OSGi-Installationsprogramm: 6,0,914<br/> <p>AEM Forms-Add-on-Pakete: 6.0.912</p></td>
+    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0062<br/><p>AEM Forms-Add-on-Pakete: 6.0.914</p></td>
    </tr>
    <tr>
     <td>1. Dezember 2022</td>
