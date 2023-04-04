@@ -3,7 +3,7 @@ title: AEM Forms-Versionen
 description: Enthält die Liste aller AEM Forms-Versionen und der entsprechenden Pakete
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: db0847781308dbde8097a0cd8ed169b0004165ce
+source-git-commit: 14055b4a8d04f3a3e66d83579b310f7a6eac52f1
 workflow-type: tm+mt
 source-wordcount: '14264'
 ht-degree: 100%
@@ -18,7 +18,7 @@ Adobe Experience Manager [!DNL Forms] ist ein Programm, das in AEM bereitgestell
 >
 >AEM Forms veröffentlicht die Add-on-Pakete eine Woche nach dem geplanten Veröffentlichungsdatum des AEM Service Packs und Cumulative Fix Packs.
 
-Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis heute veröffentlicht wurden, die entsprechenden AEM-Versionen (Voraussetzungen), Download-Links für Pakete und weitere hilfreiche Informationen:
+Die folgende Liste enthält alle Add-on-Pakete für AEM [!DNL Forms], die bis heute veröffentlicht wurden, die entsprechenden AEM-Versionen (Voraussetzungen), Download-Links für Pakete und weitere hilfreiche Informationen.
 
 ## AEM 6.5 [!DNL Forms]-Versionen {#aem-65-forms-releases}
 
