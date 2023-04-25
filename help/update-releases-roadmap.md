@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 070e40df3293af42558f94d50cfdf8aca7180195
+source-git-commit: bbb0560ff5a2cebc0b06ba7d0c7b4041e9290113
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 100%
+source-wordcount: '356'
+ht-degree: 98%
 
 ---
 
@@ -23,11 +23,13 @@ ht-degree: 100%
 
 | Release | Version | Typ | Zeitplan |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Funktionsaktivierung | 10. November 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | Funktionsaktivierung | 9. Februar 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Funktionsaktivierung | 12. April 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Funktionsaktivierung | 4. Mai 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Funktionsaktivierung | 25. Mai 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Funktionsaktivierung | 18. Mai 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 2023.6.0 | Funktionsaktivierung | 29. Juni 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 2023.7.0 | Funktionsaktivierung | 27. Juli 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | Funktionsaktivierung | 31. August 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 2023.9.0 | Funktionsaktivierung | 28. September 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 2023.10.0 | Funktionsaktivierung | 26. Oktober 2023 |
 
 Zusätzlich zu den Funktionsversionen werden kritische Fehler- und Sicherheitskorrekturen in [!DNL Experience Manager] as a [!DNL Cloud Service] in Form von Wartungsversionen zur Verfügung gestellt, wobei entsprechende Wartungs-Updates im Allgemeinen in einer höheren Häufigkeit erfolgen.
 
@@ -41,10 +43,10 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährlich
 
 | Release | Version | Typ | Zeitplan |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 25. August 2022 |
-| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 24. November 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23. Februar 2023 |
 | [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25. Mai 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 31. August 2023 |
+| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 30. November 2023 |
 
 >[!NOTE]
 >
