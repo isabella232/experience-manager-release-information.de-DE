@@ -2,10 +2,10 @@
 title: Ältere Versionen der Dokumentation für AEM, CQ und CRX herunterladen
 description: Laden Sie Dokumentationspakete für ältere Versionen von Adobe Experience Manager, CQ und CRX herunter.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '818'
-ht-degree: 100%
+source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
+workflow-type: tm+mt
+source-wordcount: '828'
+ht-degree: 95%
 
 ---
 
@@ -25,8 +25,8 @@ Die auf dieser Seite aufgeführten Versionen von [!DNL Adobe Experience Manager]
 
 Entscheiden Sie vor dem Download des Pakets, wer den Inhalt nutzen wird. Diese Entscheidung bestimmt die Art der Bereitstellung:
 
-* Entwickler können das Paket lokal installieren, um es schnell griffbereit zu haben.
-* Wird die Dokumentation auf breiterer Basis in der Organisation benötigt, empfiehlt es sich, das Paket auf einer intern zugänglichen, nicht produktionsbezogenen AEM Author-Instanz bereitzustellen.
+* Entwickler können eine lokale Installation für einen schnellen Überblick durchführen.
+* Für umfassendere Anforderungen an die organisatorische Dokumentation wird empfohlen, das Paket auf einer intern zugänglichen, produktionsfremden AEM-Autoreninstanz bereitzustellen.
 
 >[!NOTE]
 >
@@ -41,6 +41,7 @@ Wenn Sie Hilfe beim Erstellen oder Verwalten Ihrer Adobe ID benötigen, [lesen S
 
 | [!DNL Experience Manager]-Version | Link zu Software Distribution |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.4 | [Dokumentation zu Adobe Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=de) |
 | [!DNL Experience Manager] 6.3 | [Herunterladen von AEM-DOCS-6.3 von Software Distibution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [Herunterladen von AEM-DOCS-6.2 von Software Distibution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [Herunterladen von AEM-DOCS-6.1 von Software Distibution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
@@ -79,7 +80,7 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 1. Öffnen Sie die [!DNL Experience Manager]-Benutzeroberfläche. Geben Sie in einem Webbrowser Folgendes ein: `http://localhost:4502/`. Melden Sie sich als Administrator an.
 
-1. Wählen Sie **[!UICONTROL Tools]** (Werkzeuge) > **[!UICONTROL Deployment]** (Bereitstellung) > **[!UICONTROL Packages]** (Pakete).
+1. Auswählen **[!UICONTROL Instrumente]** > **[!UICONTROL Implementierung]** > **[!UICONTROL Pakete]**.
 
 1. Wählen Sie in der Package Manager-UI die Option **[!UICONTROL Upload Package]** (Paket hochladen).
 

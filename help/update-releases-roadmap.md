@@ -2,9 +2,9 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: bbb0560ff5a2cebc0b06ba7d0c7b4041e9290113
+source-git-commit: a6fe2531f159b29279c7fcbf9f782e1985700eee
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '328'
 ht-degree: 98%
 
 ---
@@ -51,10 +51,6 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährlich
 >[!NOTE]
 >
 >[!DNL Experience Manager] Forms veröffentlicht die Add-on-Pakete eine Woche nach dem geplanten Veröffentlichungsdatum der [!DNL Experience Manager] Service Packs.
-
-### [!DNL Experience Manager] 6.4 {#aem64}
-
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 ist das letzte CFP für [!DNL Experience Manager] 6.4. Weitere Informationen zum neuesten CFP finden Sie unter [[!DNL Experience Manager] Versionshinweise zum Cumulative Fix Pack 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=de).
 
 >[!MORELIKETHIS]
 >
