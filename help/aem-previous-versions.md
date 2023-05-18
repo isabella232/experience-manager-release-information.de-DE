@@ -3,9 +3,9 @@ title: Ältere Versionen der Dokumentation für AEM, CQ und CRX herunterladen
 description: Laden Sie Dokumentationspakete für ältere Versionen von Adobe Experience Manager, CQ und CRX herunter.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '828'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ Die auf dieser Seite aufgeführten Versionen von [!DNL Adobe Experience Manager]
 
 Entscheiden Sie vor dem Download des Pakets, wer den Inhalt nutzen wird. Diese Entscheidung bestimmt die Art der Bereitstellung:
 
-* Entwickler können eine lokale Installation für einen schnellen Überblick durchführen.
-* Für umfassendere Anforderungen an die organisatorische Dokumentation wird empfohlen, das Paket auf einer intern zugänglichen, produktionsfremden AEM-Autoreninstanz bereitzustellen.
+* Entwicklerinnen und Entwickler können eine lokale Installation für einen schnellen Überblick durchführen.
+* Für umfassendere Anforderungen an die organisatorische Dokumentation wird empfohlen, das Paket auf einer intern zugänglichen produktionsfremden AEM-Autoreninstanz bereitzustellen.
 
 >[!NOTE]
 >
@@ -78,9 +78,9 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 >
 >Starten Sie die lokale Instanz auf AEM 6.2 mit einer größeren maximalen Heap-Größe, indem Sie z. B. folgenden Befehl verwenden: ` java -jar -XX:MaxPermSize=2048m aem-author.jar`
 
-1. Öffnen Sie die [!DNL Experience Manager]-Benutzeroberfläche. Geben Sie in einem Webbrowser Folgendes ein: `http://localhost:4502/`. Melden Sie sich als Administrator an.
+1. Öffnen Sie die [!DNL Experience Manager]-Benutzeroberfläche. Geben Sie in einem Webbrowser Folgendes ein: `http://localhost:4502/`. Melden Sie sich als Admin an.
 
-1. Auswählen **[!UICONTROL Instrumente]** > **[!UICONTROL Implementierung]** > **[!UICONTROL Pakete]**.
+1. Wählen Sie **[!UICONTROL Tools]** > **[!UICONTROL Bereitstellung]** > **[!UICONTROL Pakete]** aus.
 
 1. Wählen Sie in der Package Manager-UI die Option **[!UICONTROL Upload Package]** (Paket hochladen).
 
