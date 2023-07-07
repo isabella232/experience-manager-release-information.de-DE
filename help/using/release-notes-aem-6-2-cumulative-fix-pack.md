@@ -3,9 +3,9 @@ title: AEM 6.2 Cumulative Fix Pack
 description: AEM 6.2 Versionshinweise zum Cumulative Fix Pack.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '19928'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 98%
 
 Adobe hat ein Modell für die einmalige Bereitstellung für die Veröffentlichung von Fehlerbehebungen eingeführt. Anstatt Hotfixes für einzelne Probleme freizugeben, veröffentlicht Adobe jetzt jeden Monat ein Cumulative Fix Pack (CFP) (vorbehaltlich erfolgreicher Qualitätsprüfungen). Ein CFP ist ein aggregiertes Inhaltspaket für mehrere Fehlerbehebungen. CFPs enthalten in erster Linie Fehlerbehebungen, können aber auch Feature Packs enthalten. Sie bieten die folgenden Vorteile gegenüber einzelnen Hotfix-Versionen:
 
-* Kumulativ (z. B. enthält eine CFP Fehlerbehebungen, die über frühere CFPs bereitgestellt wurden)
+* Kumulative Natur (z. B. enthält CFP-Fehlerbehebungen, die durch frühere CFPs bereitgestellt wurden)
 * Erhöhte Qualitätssicherung
-* Vereinfachte Installation (Benutzer installieren CFPs als einzelnes Paket ohne Abhängigkeiten, außer dem neuesten Service Pack)
+* Vereinfachte Installation (Benutzerinnen bzw. Benutzer installieren CFPs als einzelnes Paket ohne Abhängigkeiten, außer dem neuesten Service Pack)
 
 Weitere Informationen zu CFPs und anderen Versionstypen finden Sie unter [Maintenance Release Vehicle](https://docs.adobe.com/content/docs/en/aem/6-2/deploy/maintenance-release-vehicle-definitions.html).
 
@@ -49,7 +49,6 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 ist das letzte Cumulative Fix Pack für AE
 >
 >* Adobe empfiehlt die Bereitstellung von CFP über den Installationsordner für Kunden, die eine große Anzahl von Benutzern auf der AEM-Instanz haben.
 >
-
 
 ## Enthaltene Probleme {#issues-included}
 
@@ -205,7 +204,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Ankereingabefelder erscheinen außerhalb des sichtbaren Bereichs des Browsers im Dialog, bis er maximiert wird. NPR-26852: Hotfix für CQ-4255019
 * Beim Kopieren und Einfügen von Text werden unerwünschte &lt;br> im Inhaltsfragment eingefügt. NPR-26660: Hotfix für CRTE-151
 * Siteadmin für die klassische Benutzeroberfläche rendert die Liste für einige Seiten nicht im rechten Bereich. NPR-27247: Hotfix für CQ-4251621
-* (Klassische Benutzeroberfläche) Der Versuch, Seiten zu verschieben/umzubenennen, erzeugt einen Fehler: &quot;Beim Verschieben der Seite ist ein Fehler aufgetreten.&quot; NPR-27179: Hotfix für CQ-4235907
+* (Klassische Benutzeroberfläche) Der Versuch, Seiten zu verschieben/umzubenennen, führt zu einem Fehler: „Beim Verschieben der Seite ist ein Fehler aufgetreten.“ NPR-27179: Hotfix für CQ-4235907
 
 ### Integration {#integration-2}
 
@@ -435,7 +434,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 #### Adaptive Formulare {#adaptive-forms-3}
 
-* Fehler &quot;Guidelib ist nicht definiert&quot;beim Hinzufügen AEM Formulars zur parsys-Komponente. NPR-24269: Hotfix für CQ-4244546
+* Fehler „Guidelib ist nicht definiert“ beim Hinzufügen eines AEM-Formulars zur parsys-Komponente. NPR-24269: Hotfix für CQ-4244546
 
 ### Forms JEE-Installationsprogramm {#forms-jee-installer-4}
 
@@ -467,7 +466,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 ### Assets {#assets-4}
 
-* EmbedXMP-Daten werden für den PTIFF-Generierungsprozess immer auf &quot;aktiv&quot;gesetzt. NPR-22776: Hotfix für CQ-4234498
+* EmbedXMP-Daten werden für den Ptiff-Generierungsprozess immer auf „aktiv“ gesetzt. NPR-22776: Hotfix für CQ-4234498
 * Es können nicht mehrere Standardwerte in Feldern mit mehreren Werten festgelegt werden. NPR-22900: Hotfix für CQ-4239000
 * (Dynamic Media) Bei Auswahl des Kontrollkästchens „Dynamische Ausgabedarstellungen“ liefert die heruntergeladene ZIP-Datei das ursprüngliche TIFF-Bild mit einer Null-Byte-Datei. NPR-22410: Hotfix für CQ-4198471
 * (Touch-optimierte Benutzeroberfläche) Standardmäßige Upload-Position für Assets in der Spaltenansicht. NPR-23475: Hotfix für CQ-4237057
@@ -505,12 +504,12 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 ### Übersetzung {#translation-1}
 
-* Asset-Sprachkopien werden erstellt, wenn das Asset &quot;Nicht übersetzen&quot;in der Übersetzungskonfiguration festgelegt ist. NPR-22540: Hotfix für CQ-4237962
+* Es werden Asset-Sprachkopien erstellt, wenn in der Übersetzungskonfiguration „Asset nicht übersetzen“ eingestellt ist. NPR-22540: Hotfix für CQ-4237962
 
 ### Benutzeroberfläche {#user-interface-1}
 
 * Die Verwendung von Omnisearch mit einer Bindestrich-Abfrage gibt einen Server-Fehler zurück. NPR-22999: Hotfix für Granite-19674
-* DatePicker unterstützt nicht das manuelle Festlegen externer Typhinweise, die durch ein ausgeblendetes Feld festgelegt werden. Beim Ändern des Typhinweises wird ein Konvertierungsfehler ausgegeben. NPR-23333: Hotfix für Granite-21194
+* DatePicker unterstützt nicht die manuelle Einstellung externer Typhinweise, die durch ein unsichtbares Feld festgelegt werden. Beim Ändern des Typhinweises wird ein Konvertierungsfehler ausgegeben. NPR-23333: Hotfix für Granite-21194
 
 ### WCM - Foundation-Komponenten {#wcm-foundation-components-2}
 
@@ -715,7 +714,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Leistungsprobleme bei der Benutzersynchronisierung, wenn die Anzahl der Benutzer oder Gruppen groß ist. NPR-20431: Hotfix für CQ-4223282
 * Benutzer werden bei der Benutzersynchronisierung mit Sling Distribution nicht synchronisiert. NPR-21911: Hotfix für Granite-20404
 * Verhindern, dass Stoppwörter in Suchauszügen (auf einer Geometrixx-Seite) hervorgehoben werden. NPR-21835: Hotfix für Granite-21067\
-   Hinweis: Für diese Fehlerbehebung ist Oak CFP 1.4.20 oder höher erforderlich.
+  Hinweis: Für diese Fehlerbehebung ist Oak CFP 1.4.20 oder höher erforderlich.
 
 ### Übersetzung {#translation-3}
 
@@ -837,7 +836,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 * Beim Aktualisieren auf die neueste Java 8-Aktualisierung 131 wird eine Ausnahme ausgelöst: „JsafeJCE-Provider ist deaktiviert, eine nach FIPS 140 erforderliche Selbstintegritätsprüfung ist fehlgeschlagen“. NPR-21355
 
-   **Hinweis:** Dieses NPR erfordert zusätzliche Einstellungen. Weitere Informationen finden Sie unter [Neueste Java 8-Aktualisierung](#latest-java-update-throws-an-exception-npr).
+  **Hinweis:** Dieses NPR erfordert zusätzliche Einstellungen. Weitere Informationen finden Sie unter [Neueste Java 8-Aktualisierung](#latest-java-update-throws-an-exception-npr).
 
 * Aktualisieren von Jsafe Jars auf Cryptoj 6.1.3.1 in Core, Encryption, Signature &amp; Document Security. NPR-21360, NPR-21361, NPR-21356, NPR-21358
 
@@ -932,7 +931,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 
 AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version gelieferte Patch-Installationsprogramme bereitgestellt. Weitere Informationen finden Sie unter den AEM Forms-Versionen.
 
-Die wichtigsten Highlights für AEM Forms sind:
+Die wichtigsten Merkmale von AEM Forms sind:
 
 * Zertifikatsauthentifizierung für Workbench-Benutzer aktiviert.
 * Korrekturen an der Benutzerfreundlichkeit für die Korrespondenzverwaltung, HTML5-Formulare und den AEM Forms-Workspace.
@@ -1065,7 +1064,7 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 * Korrekturen im Ressourcentypwert im Arbeitsflächenknoten.
 * Die Suchfunktion für Dokumentfragment-Inhalte wurde mit der Unterscheidung zwischen Groß- und Kleinschreibung und Sonderzeichen aktiviert.
 * Adaptive Formulare wurden verbessert, um PDF als Anlagen in Safari anzuhängen.\
-   Bietet eine neue Dynamic Media-Funktionalität, die eine Verbindung zur neuen Dynamic Media-Veröffentlichungsinfrastruktur für eine schnellere und skalierbarere Replikation herstellt.
+  Bietet eine neue Dynamic Media-Funktionalität, die eine Verbindung zur neuen Dynamic Media-Veröffentlichungsinfrastruktur für eine schnellere und skalierbarere Replikation herstellt.
 
 ### Assets {#assets-10}
 
@@ -1208,7 +1207,6 @@ Die wichtigsten Highlights des AEM Cumulative Fix Packs sind:
 >* Bei Dokumentfragment-Inhalten wird die Groß-/Kleinschreibung beachtet, bei Titeln wird nicht zwischen Groß- und Kleinschreibung unterschieden.
 >* Suchergebnisse werden nicht hervorgehoben, wenn ein Teil des gesuchten Wortes in einer anderen Schreibweise vorliegt oder Sonderzeichen wie &quot; oder &#39; oder \ enthält.
 >* Die Suche funktioniert nicht bei dynamischen Inhalten (wie Datenwörterbuchelementwerten oder Variablenwerten) im Dokumentfragment.
-
 
 #### Forms Manager {#forms-manager-2}
 
@@ -1434,7 +1432,7 @@ AEM Forms-Fehlerbehebungen werden über Add-on-Pakete und andere mit der Version
 
 **Forms Manager**
 
-* In der Benutzeroberfläche von AEM Forms werden die Assets beginnend mit dem ältesten aufgelistet. Benutzer können die Assets nicht in der neuesten ersten Reihenfolge neu anordnen. NPR-18451
+* In der Benutzeroberfläche von AEM Forms werden die Assets beginnend mit dem ältesten aufgelistet. Benutzende können die Assets nicht in der Reihenfolge „Neueste zuerst“ sortieren. NPR-18451
 
 ### Forms JEE-Installationsprogramm  {#forms-jee-installer-14}
 
@@ -1705,7 +1703,7 @@ Die Projekte-Workflow-Konsole zeigt eine NullPointerException auf der Seite an, 
 
 * Der Startpunkt einer Startaufgabe beginnt nicht mit den Daten, die zum Zeitpunkt der Startpunktübermittlung gesendet werden. NPR-16917
 * Durch Klicken auf die Schaltfläche **[!UICONTROL Zurück]** für ein Formular in HTML Workspace wird das Formular nicht geschlossen, sondern in die Gruppenwarteschlange zurückgestellt.\
-   NPR-16352
+  NPR-16352
 
 **Prozessverwaltung**
 
@@ -1795,7 +1793,7 @@ Die wichtigsten Highlights von CFP3 sind:
 * Beim Versuch, ein Fragment innerhalb eines Fragments im Formular-Editor zu speichern, füllt der Fragmentmodellstamm den Wert des untergeordneten Fragments nicht aus. NPR-15943
 * Beim Erstellen eines Kontrollkästchens mit nur einem Element und beim Anzeigen des Kontrollkästchentitels wird bei der Aktion zum Erstellen eines Wörterbuchs eine `ArrayIndexOutOfBoundException` zurückgegeben, wenn der Text des Elements leer ist. Das Wörterbuch wird nicht erstellt und es wird kein Fehler auf dem Bildschirm generiert. NPR-15816
 * Bei adaptiven Formularen mit Widgets für Dateianhänge werden einige Teile des Formulars deaktiviert, nachdem die angehängte Datei in der Vorschau angezeigt wurde.\
-   NPR-16611
+  NPR-16611
 
 * Bei Widgets für Dateianhänge, bei denen mehrere Anhänge zulässig sind, wird beim Öffnen des hinzugefügten Anhangs anstelle des eigentlichen Inhalts ein Fehler-Code angezeigt, wenn eine neue Formularinstanz mit einem Anhang an ein Widget mit einem vorherigen Anhang gesendet wird. NPR-16258
 * Sichern des Formularvorbefüllungs-Service vor unbefugtem Zugriff durch Protokolle wie `file://`, `http://` und `ftp://`. Weitere Informationen finden Sie unter [Konfigurieren des Vorbefüllungs-Service mithilfe von Configuration Manager](https://helpx.adobe.com/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754). NPR-15414
@@ -1840,7 +1838,7 @@ Die wichtigsten Highlights von CFP3 sind:
 #### Forms Designer {#forms-designer-1}
 
 * Das Ändern des Gebietsschemas des Formulars auf Französisch (Kanada) in der Rechtschreibprüfung des Wörterbuchs funktioniert in AEM Forms Designer nicht.\
-   NPR-15896
+  NPR-15896
 
 ### In CFP3 enthaltene Feature Packs {#feature-packs-included-in-cfp-2}
 
@@ -1879,7 +1877,7 @@ Die wichtigsten Highlights des Cumulative Fix Packs 2 sind:
 * Wenn der Benutzer einen Knoten in CRXDE (z. B. „/content/dam/“) und dann die Registerkarte „Zugriffskontrolle“ auswählt, um sicherzustellen, dass eine Zugriffskontrollliste vorhanden ist, werden beim Ziehen und Ablegen einiger Elemente andere als die ausgewählten Elemente verschoben. NPR-15696; Hotfix für GRANITE-16300
 * Die Auswahl eines Benutzers aus der Dropdown-Liste, um für ihn stellvertretend zu agieren, lässt das gesamte Benutzer-Pop-up verschwinden. NPR-15774: Hotfix für CQ-4201738/GRANITE-11895
 * In Omnisearch funktioniert die Suche nach Tags mit automatisch ausgefüllten Vorschlägen nicht. NPR-15088: Hotfix für GRANITE-14426.\
-   Hinweis: Für diese Fehlerbehebung ist Oak CFP 1.4.11 oder höher erforderlich.
+  Hinweis: Für diese Fehlerbehebung ist Oak CFP 1.4.11 oder höher erforderlich.
 
 ### Mobile AEM Author {#mobile-aem-author}
 
@@ -2106,7 +2104,7 @@ Die wichtigsten Highlights von AEM 6.2 SP2-CFP1 sind:
 
 * Anfrage zur Behebung eines Eingabevalidierungsproblems im WCMDebug-Filter. NPR-12444: Hotfix-Anfrage für CQ-94890
 * Proaktive Anfrage zur Korrektur des XSS-Verhaltens bei Verwendung des Assistenten zur Launch-Erstellung.\
-   NPR-13062: Hotfix-Anfrage für CQ-99577
+  NPR-13062: Hotfix-Anfrage für CQ-99577
 
 #### Forms-Add-on-Paket {#forms-add-on-package-19}
 
@@ -2208,7 +2206,7 @@ Dieser Abschnitt erläutert die Anforderungen und Schritte zur Installation von 
 * Der Download des Cumulative Fix Packs ist über [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) verfügbar, auf das Sie direkt von der AEM-Instanz aus zugreifen können.
 * Bei einer Cluster-Bereitstellung mit RDBMK oder MongoDB kann das CFP-Paket auf einer der Autoreninstanzen installiert werden, die Package Manager verwenden.
 
-* Stellen Sie vor der Installation des Cumulative Fix Packs sicher, dass Sie einen Schnappschuss erstellen oder eine Sicherung Ihrer AEM-Instanz erstellen.
+* Stellen Sie vor der Installation des Cumulative Fix Packs sicher, dass Sie eine Momentaufnahme oder ein Backup Ihrer AEM-Instanz erstellen.
 * Die Deinstallation von CFP wird nicht unterstützt.
 
 ### Installieren des CFP über Software Distribution {#install-the-cfp-via-package-share}
@@ -2259,7 +2257,7 @@ CFP kann wie folgt automatisch in einer laufenden Instanz installiert werden:
 
 #### Installieren des AEM Forms JEE-Bundles-Pakets {#install-aem-forms-jee-bundles-package}
 
-Fehlerbehebungen in AEM Forms JEE werden über ein separates Installationsprogramm bereitgestellt. Informationen zum Installieren eines CFPs auf AEM Forms on JEE finden Sie unter [Installieren von CFP auf AEM Forms JEE](install-cfp-aem-forms-jee.md).
+Fehlerbehebungen in AEM Forms JEE werden über ein separates Installationsprogramm bereitgestellt. Informationen zum Installieren eines CFPs auf AEM Forms auf JEE finden Sie unter [Installieren von CFP auf AEM Forms JEE](install-cfp-aem-forms-jee.md).
 
 #### Forms Designer-Installationsprogramm {#designer-installer}
 
@@ -2293,12 +2291,12 @@ Falls Sie CFP3 oder höher verwenden, führen Sie die folgenden Anweisungen aus,
 
 * Fügen Sie `replicationStateRequired`: &quot;false&quot; nach Zeile 416 hinzu.
 
-   ```js
-   415    baseParams: {
-   416                    count: "false",
-   417                    "replicationStateRequired": "false"
-   418                },
-   ```
+  ```js
+  415    baseParams: {
+  416                    count: "false",
+  417                    "replicationStateRequired": "false"
+  418                },
+  ```
 
 ## Die neueste Java 8-Aktualisierung 131 gibt eine Ausnahme aus (NPR-21355) {#latest-java-update-throws-an-exception-npr}
 
@@ -2449,5 +2447,4 @@ Im folgenden Text wird die Liste der im CFP enthaltenen OSGI-Bundles und Inhalts
 >* [AEM 6.2 – Versionshinweise](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM-Produktseite](http://www.adobe.com/de/solutions/web-experience-management.html)
 >* [Dokumentation zu AEM 6.2](https://docs.adobe.com/content/docs/en/aem/6-2.html)
->* [Adobe-Prioritäts-Produkt-Updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
-
+>* [Adobe-Prioritäts-Produkt-Updates](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=de)
