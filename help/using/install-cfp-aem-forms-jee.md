@@ -4,9 +4,9 @@ description: Zusammenfassung der Schritte zur Installation und Konfiguration des
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -91,7 +91,7 @@ Mit den folgenden Befehlen legen Sie den Wert für die Zeitüberschreitung auf K
 
 ## Installieren und Konfigurieren von AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
-1. Erstellen Sie eine Sicherungskopie des Ordners /deploy. Dies ist erforderlich, wenn Sie die Schnellkorrektur deinstallieren.
+1. Erstellen Sie eine Sicherungskopie des Ordners /deploy. Das ist erforderlich, wenn Sie die Schnellkorrektur deinstallieren möchten.
 1. Stoppen Sie den Programm-Server.
 1. Extrahieren Sie die Archivdatei des Patch-Installationsprogramms auf Ihrer Festplatte.
 1. Im Ordner mit dem Namen entsprechend des von Ihnen verwendeten Betriebssystems:
@@ -127,12 +127,12 @@ Mit den folgenden Befehlen legen Sie den Wert für die Zeitüberschreitung auf K
 
 1. Klicken Sie im Begrüßungsbildschirm auf **[!UICONTROL Weiter]**.
 1. Stellen Sie auf dem Bildschirm „Installationsordner auswählen“ sicher, dass der Standardspeicherort, der angezeigt wird, für Ihre bestehende Installation korrekt ist, oder klicken Sie auf **[!UICONTROL Durchsuchen]**[!DNL Forms], um den alternativen Ordner auszuwählen, in dem AEM installiert ist, und klicken Sie auf **[!UICONTROL Weiter]**.
-1. Lesen Sie die Schnellkorrektur-Patch-Zusammenfassungsinformationen und klicken Sie auf **[!UICONTROL Nächste]**.
+1. Lesen Sie die Zusammenfassung der Schnellkorrektur und klicken Sie auf **[!UICONTROL Weiter]**.
 1. Lesen Sie die Informationen in der Zusammenfassung vor der Installation und klicken Sie auf **[!UICONTROL Installieren]**.
 1. Wenn die Installation abgeschlossen ist, klicken Sie auf **[!UICONTROL Weiter]**, um die Schnellkorrektur-Updates auf Ihre installierten Dateien anzuwenden.
 1. Das Kontrollkästchen „Configuration Manager starten“ ist standardmäßig aktiviert. Klicken Sie auf **[!UICONTROL Fertig]**, um Configuration Manager auszuführen.
 
-   Um Configuration Manager später auszuführen, deaktivieren Sie die Option **[!UICONTROL Configuration Manager starten]** Option vor dem Klicken **[!UICONTROL Fertig]**. Sie können Configuration Manager mithilfe des entsprechenden Skripts im Verzeichnis *`[AEM_forms_root]`/configurationManager/bin* starten
+   Wenn Sie den Configuration Manager später ausführen möchten, deaktivieren Sie die Option **[!UICONTROL Configuration Manager starten]**, bevor Sie auf **[!UICONTROL Fertig]** klicken. Sie können Configuration Manager mithilfe des entsprechenden Skripts im Verzeichnis *`[AEM_forms_root]`/configurationManager/bin* starten
 
 1. Wählen Sie je nach Programm-Server eines der folgenden Dokumente aus und befolgen Sie die Anweisungen im Abschnitt *Konfigurieren und Bereitstellen von AEM [!DNL Forms]*.
 
