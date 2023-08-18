@@ -2,9 +2,9 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0d6d189e10b38d5a87baf381bfab15c8afc7a128
+source-git-commit: 0e08661d65926e57a853ed8bc37170abba695308
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '341'
 ht-degree: 87%
 
 ---
@@ -41,12 +41,12 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährliche Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=de).
 
-| Release | Version | Typ | Zeitplan |
-|---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23. Februar 2023 |
-| [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25. Mai 2023 |
-| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 31. August 2023 |
-| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 30. November 2023 |
+| Release | Version | Typ | Zeitplan | Status |
+|---|---|---|---|---|
+| [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 23. Februar 2023 | Aktiviert |
+| [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 25. Mai 2023 | Aktiviert |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 24. August 2023 | Ziel |
+| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 23. November 2023 | Ziel |
 
 >[!NOTE]
 >
