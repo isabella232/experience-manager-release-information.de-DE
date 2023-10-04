@@ -3,7 +3,7 @@ title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 31629787a26aaad4dd6ac405d32abd308a0e82c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
 ht-degree: 100%
 
@@ -72,6 +72,6 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährlich
 >[!MORELIKETHIS]
 >
 >* [EOL-Matrix](https://helpx.adobe.com/de/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] -Versionen und Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=de)
+>* [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=de)-Versionen und Updates
 >* Informationen und Support für [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
->* Definitionen von [[!DNL Experience Manager] -Aktualisierungsversionen](/help/using/update-release-vehicle-definitions.md)
+>* Definitionen von [[!DNL Experience Manager] ](/help/using/update-release-vehicle-definitions.md)-Aktualisierungsversionen
