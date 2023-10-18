@@ -1908,7 +1908,7 @@ Einschränkungen : jcr:write
 `a)` Prinzipal : reference-Adjustment-Service\
 Typ : Allow\
 Berechtigungen : jcr:read, jcr:modifyProperties\
-Einschränkungen : rep:glob=&quot;/&#42;/jcr:content&quot;\
+Einschränkungen :  rep:glob=&quot;/&#42;/jcr:content&quot;\
 `b)` Prinzipal : reference-Adjustment-Service\
 Typ : Allow\
 Berechtigungen : jcr:read, jcr:modifyProperties\
