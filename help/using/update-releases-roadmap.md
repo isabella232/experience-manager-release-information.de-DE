@@ -2,9 +2,9 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 578f404ad359536461fd93a364a4ac4e59381e0e
+source-git-commit: 568528ecf59035b6fd5fb7bab119bfe8712ea3a1
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '545'
 ht-degree: 100%
 
 ---
@@ -35,8 +35,8 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=de#release-13665) | Automatisches Update | 2.–5. Oktober 2023 | Aktualisiert |
 | Wartungsversion [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=de#release-13804) | Automatisches Update | 16.–19. Oktober 2023 | Aktualisiert |
 | Neue Funktionen [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de) | Funktionsaktivierung | 26. Oktober 2023 | Aktiviert |
-| Wartungsversion [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=de) | Automatisches Update | 30. Oktober–2. November 2023 | Ziel |
-| Wartungsversion | Automatisches Update | 13.–16. November 2023 | Ziel |
+| Wartungsversion [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html?lang=de#release-14029) | Automatisches Update | 30. Oktober–2. November 2023 | Aktualisiert |
+| Wartungsversion [14157](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=de) | Automatisches Update | 13.–16. November 2023 | Ziel |
 | Neue Funktionen 2023.11.0 | Funktionsaktivierung | 30. November 2023 | Ziel |
 | Wartungsversion | Automatisches Update | 11.–14. Dezember 2023 | Ziel |
 | Neue Funktionen 2023.12.0 | Funktionsaktivierung | 14. Dezember 2023 | Ziel |
