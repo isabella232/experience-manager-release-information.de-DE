@@ -4,9 +4,9 @@ description: Enthält die Liste aller AEM Forms-Versionen und der entsprechenden
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: f03a2ce6bef6d167e780f750c7fdb6627d088094
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '8168'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ Adobe Experience Manager [!DNL Forms] ist ein Programm, das in AEM bereitgestell
 
 >[!NOTE]
 >
-> Die in verfügbaren AEM Forms-Funktionen, z. B. Adaptive Forms [AEM 6.5 QuickStart](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html), sind nur zu Forschungs- und Evaluierungszwecken bestimmt. Für die Verwendung in der Produktion ist es unerlässlich, eine gültige Lizenz für AEM Forms zu erhalten.
+> Die im [AEM 6.5-Schnellstart](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html?lang=de) verfügbaren AEM Forms-Funktionen, z. B. adaptive Formulare, dienen nur zu Kennenlern- und Evaluierungszwecken. Für die Verwendung in der Produktion ist es unerlässlich, eine gültige Lizenz für AEM Forms zu erwerben.
 
 
 <!--
