@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ffa37b42c9f90404900d9e4c5e4ce25fe4a1d12f
+source-git-commit: 244be6d98b3efc8b7df85029f1e37670501b93ed
 workflow-type: tm+mt
 source-wordcount: '555'
-ht-degree: 99%
+ht-degree: 96%
 
 ---
 
@@ -36,13 +36,13 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Neue Funktionen 2023.11.0 | Funktionsaktivierung | 30. November 2023 | Ziel |
 | Wartungsversion | Automatisches Update | 11.–14. Dezember 2023 | Ziel |
 | Neue Funktionen 2023.12.0 | Funktionsaktivierung | 14. Dezember 2023 | Ziel |
-| Neue Funktionen 2024.1.0 | Funktionsaktivierung | 25. Januar 2023 | Ziel |
-| Neue Funktionen 2024.2.0 | Funktionsaktivierung | 29. Februar 2023 | Ziel |
-| Neue Funktionen 2024.3.0 | Funktionsaktivierung | 28. März 2023 | Ziel |
-| Neue Funktionen 2024.4.0 | Funktionsaktivierung | 25. April 2023 | Ziel |
-| Neue Funktionen 2024.5.0 | Funktionsaktivierung | 30. Mai 2023 | Ziel |
-| Neue Funktionen 2024.6.0 | Funktionsaktivierung | 27. Juni 2023 | Ziel |
-| Neue Funktionen 2024.7.0 | Funktionsaktivierung | 25. Juli 2023 | Ziel |
+| Neue Funktionen 2024.1.0 | Funktionsaktivierung | 25. Januar 2024 | Ziel |
+| Neue Funktionen 2024.2.0 | Funktionsaktivierung | 29. Februar 2024 | Ziel |
+| Neue Funktionen 2024.3.0 | Funktionsaktivierung | 28. März 2024 | Ziel |
+| Neue Funktionen 2024.4.0 | Funktionsaktivierung | 25. April 2024 | Ziel |
+| Neue Funktionen 2024.5.0 | Funktionsaktivierung | 30. Mai 2024 | Ziel |
+| Neue Funktionen 2024.6.0 | Funktionsaktivierung | 27. Juni 2024 | Ziel |
+| Neue Funktionen 2024.7.0 | Funktionsaktivierung | 25. Juli 2024 | Ziel |
 
 >[!CAUTION]
 >
@@ -50,8 +50,8 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 >
 > Während der folgenden Zeiträume, die um Mitternacht (00:00 Uhr) CET beginnen und enden, wird keine automatische AEMaaCS-Wartung ausgeführt:
 >
->* Donnerstag, 16. November bis Dienstag, 28. November
->* Freitag, 15. Dezember bis Dienstag, 2. Januar
+>* Donnerstag, 16. November 2023 bis Dienstag, 28. November 2023
+>* Freitag, 15. Dezember 2023 bis Dienstag, 2. Januar 2024
 
 ## [!DNL Experience Manager] On-Premise und Managed Services {#aem-on-prem-managed-services}
 
