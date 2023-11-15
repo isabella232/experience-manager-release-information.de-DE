@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 244be6d98b3efc8b7df85029f1e37670501b93ed
 workflow-type: tm+mt
 source-wordcount: '555'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -39,7 +39,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Neue Funktionen 2024.1.0 | Funktionsaktivierung | 25. Januar 2024 | Ziel |
 | Neue Funktionen 2024.2.0 | Funktionsaktivierung | 29. Februar 2024 | Ziel |
 | Neue Funktionen 2024.3.0 | Funktionsaktivierung | 28. März 2024 | Ziel |
-| Neue Funktionen 2024.4.0 | Funktionsaktivierung | 25. April 2024 | Ziel |
+| Neue Funktionen 2024.4.0 | Funktionsaktivierung | 25. April 2024 | Ziel |
 | Neue Funktionen 2024.5.0 | Funktionsaktivierung | 30. Mai 2024 | Ziel |
 | Neue Funktionen 2024.6.0 | Funktionsaktivierung | 27. Juni 2024 | Ziel |
 | Neue Funktionen 2024.7.0 | Funktionsaktivierung | 25. Juli 2024 | Ziel |
