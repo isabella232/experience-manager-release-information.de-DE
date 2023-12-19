@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 969cfa155a54fbd7a133e893e19932fe8eeac169
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -42,10 +42,10 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion | Automatisches Update | 8.-10. Januar 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 22.-24. Januar 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 8.–10. Januar 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 22.–24. Januar 2024 | Ziel |
 | Neue Funktionen 2024.1.0 | Funktionsaktivierung | 25. Januar 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 5.-7. Februar 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 5.–7. Februar 2024 | Ziel |
 | Neue Funktionen 2024.2.0 | Funktionsaktivierung | 29. Februar 2024 | Ziel |
 | Neue Funktionen 2024.3.0 | Funktionsaktivierung | 28. März 2024 | Ziel |
 | Neue Funktionen 2024.4.0 | Funktionsaktivierung | 25. April 2024 | Ziel |
