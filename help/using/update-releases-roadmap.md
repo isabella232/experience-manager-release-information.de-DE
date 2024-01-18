@@ -2,9 +2,9 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f0d7dff2ff21befed5f0c2fde36b5442267d61ad
-workflow-type: tm+mt
-source-wordcount: '507'
+source-git-commit: 4e209f166c0401279f73632e19bf8f05ee0e9dec
+workflow-type: ht
+source-wordcount: '467'
 ht-degree: 100%
 
 ---
@@ -50,15 +50,6 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Neue Funktionen 2024.5.0 | Funktionsaktivierung | 30. Mai 2024 | Ziel |
 | Neue Funktionen 2024.6.0 | Funktionsaktivierung | 27. Juni 2024 | Ziel |
 | Neue Funktionen 2024.7.0 | Funktionsaktivierung | 25. Juli 2024 | Ziel |
-
->[!CAUTION]
->
->**Ausschlusszeitraum für geplante Wartungen**
->
-> Während der folgenden Zeiträume, die um Mitternacht (00:00 Uhr) CET beginnen und enden, wird keine automatische AEMaaCS-Wartung ausgeführt:
->
->* Donnerstag, 16. November 2023, bis Dienstag, 28. November 2023.
->* Freitag, 15. Dezember 2023, bis Dienstag, 2. Januar 2024.
 
 ## [!DNL Experience Manager] On-Premise und Managed Services {#aem-on-prem-managed-services}
 
