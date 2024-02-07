@@ -3,10 +3,10 @@ title: Frühere Aktualisierungen der Dokumentation
 description: Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualisierungen für [!DNL Adobe Experience Manager] aufgelistet.
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 042bc34d6a43f3dcbac5d34588fa417cb4e6b5c0
+workflow-type: tm+mt
 source-wordcount: '1236'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -26,12 +26,12 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
    <tr>
    <td>12. Dezember 2019</td> 
    <td>Vorschau von 3D-Assets<br /> </td> 
-   <td><p>AEM unterstützt das Hochladen, Bereitstellen und interaktive Anzeigen einer Vorschau von 3D-Assets als Teil des Authoring-Prozesses. Der interaktive 3D-Viewer ist auf der Seite „Asset-Details“ in Experience Manager verfügbar. Der Viewer bietet unter anderem eine Reihe interaktiver Kamera-Steuerelemente, mit denen Sie die Kamera um das 3D-Asset drehen sowie Zoom- und Schwenkvorgänge durchführen können.</p> <p>Informationen hierzu finden Sie unter <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=de" target="_blank">Vorschau von 3D-Assets</a>.</p> </td> 
+   <td><p>AEM unterstützt das Hochladen, Bereitstellen und interaktive Anzeigen einer Vorschau von 3D-Assets als Teil des Authoring-Prozesses. Der interaktive 3D-Viewer ist auf der Seite „Asset-Details“ in Experience Manager verfügbar. Der Viewer bietet unter anderem eine Reihe interaktiver Kamera-Steuerelemente, mit denen Sie die Kamera um das 3D-Asset drehen sowie Zoom- und Schwenkvorgänge durchführen können.</p> <p>Informationen hierzu finden Sie unter <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html" target="_blank">Vorschau von 3D-Assets</a>.</p> </td> 
   </tr>
   <tr>
    <td>12. Dezember 2019</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=de">AEM 6.5 Service Pack 3</a> ist verfügbar.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-3.html">AEM 6.5 Service Pack 3</a> ist verfügbar.</td> 
   </tr>
   <tr>
    <td>5. Dezember 2019</td> 
@@ -51,7 +51,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>18. Oktober 2019<br /> </td> 
    <td>Headless-Experience-Management<br /> </td> 
-   <td>Es wurden Funktionen des <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=de#remote-content-renderer">Remote Content Renderer</a> dokumentiert, der für die Server-seitige Wiedergabe von Single Page Applications verwendet wird.<br /> </td> 
+   <td>Es wurden Funktionen des <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html#remote-content-renderer">Remote Content Renderer</a> dokumentiert, der für die Server-seitige Wiedergabe von Single Page Applications verwendet wird.<br /> </td> 
   </tr>
   <tr>
    <td>11. Oktober 2019</td> 
@@ -61,7 +61,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>10. Oktober 2019</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager Version 2019.10.0 wurde am 10. Oktober 2019 veröffentlicht.</p> <p>Siehe die <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=de">Versionshinweise für 2019.10.0</a>, in denen <i>Neue Funktionen</i> und Aktualisierungen zu Bereitstellungsschritten und zur Handhabung von Maven-Projektversionen hervorgehoben werden.<br /> </p> </td> 
+   <td><p>Cloud Manager Version 2019.10.0 wurde am 10. Oktober 2019 veröffentlicht.</p> <p>Siehe die <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html">Versionshinweise für 2019.10.0</a>, in denen <i>Neue Funktionen</i> und Aktualisierungen zu Bereitstellungsschritten und zur Handhabung von Maven-Projektversionen hervorgehoben werden.<br /> </p> </td> 
   </tr>
   <tr>
    <td>8. Oktober 2019</td> 
@@ -91,17 +91,17 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>25. September 2019</td> 
    <td>Scene7: Assets-Workflow erneut verarbeiten<br /> </td> 
-   <td><p>Sie können jetzt Assets in einem Ordner erneut verarbeiten, der bereits über ein vorhandenes Verarbeitungsprofil verfügt, das Sie nachträglich geändert haben.</p> <p>Informationen hierzu finden Sie unter <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=de#reprocessing-assets" target="_blank">Neuverarbeitung von Assets in einem Ordner</a>.<br /> </p> </td> 
+   <td><p>Sie können jetzt Assets in einem Ordner erneut verarbeiten, der bereits über ein vorhandenes Verarbeitungsprofil verfügt, das Sie nachträglich geändert haben.</p> <p>Informationen hierzu finden Sie unter <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html#reprocessing-assets" target="_blank">Neuverarbeitung von Assets in einem Ordner</a>.<br /> </p> </td> 
   </tr>
   <tr>
    <td>25. September 2019</td> 
    <td>Integrieren von Dynamic Media-Viewern mit Adobe Analytics und Adobe Launch</td> 
-   <td><p>Mit der Erweiterung für Dynamic Media-Viewer für Adobe Experience Platform Launch und der neuen Dynamic Media-Viewer-Version 5.13 können Kundinnen und Kunden von Dynamic Media, Adobe Analytics und Adobe Experience Platform Launch Ereignisse und Daten verwenden, die für die Dynamic Media-Viewer in ihrer Adobe Experience Platform Launch-Konfiguration spezifisch sind.</p> <p>Informationen hierzu finden Sie unter <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=de" target="_blank">Integrieren von Dynamic Media-Viewern mit Adobe Analytics und Adobe Launch</a>. </p> </td> 
+   <td><p>Mit der Erweiterung für Dynamic Media-Viewer für Adobe Experience Platform Launch und der neuen Dynamic Media-Viewer-Version 5.13 können Kundinnen und Kunden von Dynamic Media, Adobe Analytics und Adobe Experience Platform Launch Ereignisse und Daten verwenden, die für die Dynamic Media-Viewer in ihrer Adobe Experience Platform Launch-Konfiguration spezifisch sind.</p> <p>Informationen hierzu finden Sie unter <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html" target="_blank">Integrieren von Dynamic Media-Viewern mit Adobe Analytics und Adobe Launch</a>. </p> </td> 
   </tr>
   <tr>
    <td>19. September 2019</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.2.html?lang=de">AEM 6.5 Service Pack 2 (6.5.2.0)</a> ist verfügbar.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-2.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> ist verfügbar.</td>
   </tr>
   <tr>
    <td>9. September 2019</td> 
@@ -136,7 +136,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>25. Juli 2019</td> 
    <td>AEM Assets-Funktionalität unter verschiedenen Lizenzen</td> 
-   <td>Die <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=de" target="_blank">Liste mit einem Vergleich der Funktionen</a> von AEM Assets, die unter einer eigenständigen DAM-Lizenz bzw. über AEM Media Library verfügbar sind, wird für Version 6.5 von AEM aktualisiert.<br /> </td> 
+   <td>Die <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html" target="_blank">Liste mit einem Vergleich der Funktionen</a> von AEM Assets, die unter einer eigenständigen DAM-Lizenz bzw. über AEM Media Library verfügbar sind, wird für Version 6.5 von AEM aktualisiert.<br /> </td> 
   </tr>
   <tr>
    <td>12. Juli 2019</td> 
@@ -146,7 +146,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>8. Juli 2019</td> 
    <td>Migration zur Touch-optimierten Benutzeroberfläche</td> 
-   <td>Landingpage mit Informationen und Ressourcen für die <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=de#introduction">Migration zur Touch-optimierten Benutzeroberfläche</a>.</td> 
+   <td>Landingpage mit Informationen und Ressourcen für die <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html#introduction">Migration zur Touch-optimierten Benutzeroberfläche</a>.</td> 
   </tr>
   <tr>
    <td>3. Juli 2019</td> 
@@ -156,7 +156,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>3. Juli 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=de">AEM 6.5 Service Pack 1 (6.5.1.0)</a> ist verfügbar.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-1.html">AEM 6.5 Service Pack 1 (6.5.1.0)</a> ist verfügbar.</td> 
   </tr>
   <tr>
    <td>25. Juni 2019</td> 
@@ -171,7 +171,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>3. Juni 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td><p>Es wurde ein Paket in der <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">Komponente zum Erstellen einer Mehrfeld-Komponente</a> hinzugefügt.<br /> </p> <p>Es wurden auf Kunden-Feedback basierende <a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html?lang=de" target="_blank">Häufig gestellte Fragen (FAQ) zur Fehlerbehebung</a> erstellt.</p> </td> 
+   <td><p>Es wurde ein Paket in der <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">Komponente zum Erstellen einer Mehrfeld-Komponente</a> hinzugefügt.<br /> </p> <p>Es wurden auf Kunden-Feedback basierende <a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">Häufig gestellte Fragen (FAQ) zur Fehlerbehebung</a> erstellt.</p> </td> 
   </tr>
   <tr>
    <td>31. Mai 2019</td> 
@@ -181,12 +181,12 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>24. Mai 2019</td> 
    <td>Status der Funktionen der Touch-optimierten Benutzeroberfläche in AEM 6.5<br /> </td> 
-   <td>Seite mit dem <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=de">Status der Funktionen der Touch-optimierten Benutzeroberfläche</a> für AEM 6.5 veröffentlicht.<br /> </td> 
+   <td>Seite mit dem <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html">Status der Funktionen der Touch-optimierten Benutzeroberfläche</a> für AEM 6.5 veröffentlicht.<br /> </td> 
   </tr>
   <tr>
    <td>14. Mai 2019</td> 
    <td>Viewer-Referenzhandbuch</td> 
-   <td>Das Vorabladen des Modifikators für den Videoplayer im Viewer für <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html?lang=de">Video</a>, <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html?lang=de">Video360</a> ist jetzt dokumentiert.</td> 
+   <td>Das Vorabladen des Modifikators für den Videoplayer im Viewer für <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html">Video</a>, <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html">Video360</a> ist jetzt dokumentiert.</td> 
   </tr>
   <tr>
    <td>14. Mai 2019</td> 
@@ -196,7 +196,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>13. Mai 2019</td> 
    <td>IS/IR-API</td> 
-   <td>Neue BFC-Werte (Browser-Formatkonvertierung) wurden dem Referenzabschnitt <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html?lang=de">Attribute des Bildkatalogs</a> hinzugefügt.</td> 
+   <td>Neue BFC-Werte (Browser-Formatkonvertierung) wurden dem Referenzabschnitt <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html">Attribute des Bildkatalogs</a> hinzugefügt.</td> 
   </tr>
   <tr>
    <td>8. Mai 2019</td> 
@@ -206,7 +206,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>1. Mai 2019</td> 
    <td>Viewer-Referenzhandbuch</td> 
-   <td><p>Neue Dokumentation zu <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html?lang=de">360-Grad-/VR-Video</a>.</p> </td> 
+   <td><p>Neue Dokumentation zu <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html">360-Grad-/VR-Video</a>.</p> </td> 
   </tr>
   <tr>
    <td>18. April 2019</td> 
@@ -225,7 +225,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>12. April 2019</td> 
    <td>AEM 6.5 Screens-Benutzerhandbuch</td> 
-   <td><p>Weitere Informationen finden Sie unter <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html?lang=de">Implementieren von Windows 10 Player</a>.</p> </td> 
+   <td><p>Weitere Informationen finden Sie unter <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">Implementieren von Windows 10 Player</a>.</p> </td> 
   </tr>
   <tr>
    <td>8. April 2019</td> 
