@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 51c42244c12b4717b091e0abc1f0fe6dba553c20
 workflow-type: tm+mt
 source-wordcount: '533'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -47,14 +47,14 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion | Automatisches Update | 19.-21. März 2024 | Ziel |
 | Wartungsversion | Automatisches Update | 1.-3. April 2024 | Ziel |
 | Neue Funktionen 2024.3.0 | Funktionsaktivierung | Freitag, 4. April 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 15.-17. April 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 15.–17. April 2024 | Ziel |
 | Neue Funktionen 2024.4.0 | Funktionsaktivierung | 25. April 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 29. April - 1. Mai 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 13.-15. Mai 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 27.-29. Mai 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 29. April – 1. Mai 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 13.–15. Mai 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 27.–29. Mai 2024 | Ziel |
 | Neue Funktionen 2024.5.0 | Funktionsaktivierung | 30. Mai 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 10.-12. Juni 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 24.-26. Juni 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 10.–12. Juni 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 24.–26. Juni 2024 | Ziel |
 | Neue Funktionen 2024.6.0 | Funktionsaktivierung | 27. Juni 2024 | Ziel |
 | Neue Funktionen 2024.7.0 | Funktionsaktivierung | 25. Juli 2024 | Ziel |
 
