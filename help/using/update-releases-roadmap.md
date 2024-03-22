@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9ef364f5e561b07ae9d81dba9b772e884e74d322
+source-git-commit: 36981c8f4942f9c8b0581204cdfff769d942351d
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 100%
+source-wordcount: '536'
+ht-degree: 80%
 
 ---
 
@@ -39,25 +39,15 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Neue Funktionen [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html?lang=de) | Funktionsaktivierung | 14. Dezember 2023 | Aktiviert |
 | Neue Funktionen [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de) | Funktionsaktivierung | 25. Januar 2024 | Aktiviert |
 | Wartungsversion [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html?lang=de#release-15262) | Automatisches Update | 11.-13. März 2024 | Aktiviert |
+| Wartungsversion [15575](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 19.–21. März 2024 | Aktiviert |
 
 
 ### Bevorstehende Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [15575](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 19.–21. März 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 1.-3. April 2024 | Ziel |
-| Neue Funktionen 2024.3.0 | Funktionsaktivierung | Freitag, 4. April 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 15.–17. April 2024 | Ziel |
-| Neue Funktionen 2024.4.0 | Funktionsaktivierung | 25. April 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 29. April – 1. Mai 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 13.–15. Mai 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 27.–29. Mai 2024 | Ziel |
-| Neue Funktionen 2024.5.0 | Funktionsaktivierung | 30. Mai 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 10.–12. Juni 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 24.–26. Juni 2024 | Ziel |
-| Neue Funktionen 2024.6.0 | Funktionsaktivierung | 27. Juni 2024 | Ziel |
-| Neue Funktionen 2024.7.0 | Funktionsaktivierung | 25. Juli 2024 | Ziel |
+
+| Maintenance Release|Automatische Aktualisierung|8.-10. April 2024|Target| | Feature Release 2024.3.0 |Funktionsaktivierung|4. April 2024 |Ziel| | Maintenance Release|Automatische Aktualisierung|22.-24. April 2024|Target| | Feature Release 2024.4.0 |Funktionsaktivierung|25. April 2024 |Ziel| | Maintenance Release|Automatische Aktualisierung|6. bis 8. Mai 2024|Target| | Maintenance Release|Automatische Aktualisierung|20.-22. Mai 2024|Target| | Feature Release 2024.5.0 |Funktionsaktivierung|30. Mai 2024 |Ziel| | Maintenance Release|Automatische Aktualisierung|3. bis 5. Juni 2024|Target| | Maintenance Release|Automatische Aktualisierung|17.-19. Juni 2024|Target| | Feature Release 2024.6.0 |Funktionsaktivierung|27. Juni 2024 |Ziel| | Maintenance Release|Automatische Aktualisierung|1. bis 3. Juli 2024|Target| | Feature Release 2024.7.0 |Funktionsaktivierung|25. Juli 2024 |Ziel|
 
 ## [!DNL Experience Manager] On-Premise und Managed Services {#aem-on-prem-managed-services}
 
